@@ -12,7 +12,6 @@ else{
 newArr.push(arr[i]);
 }
 }
-return newArr;
 }
-
-console.log(flattenArray(a));
+flattenArray(a);
+console.log(newArr);
