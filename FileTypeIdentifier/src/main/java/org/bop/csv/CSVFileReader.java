@@ -26,6 +26,10 @@ public class CSVFileReader
 	public static Map<String, String> getDescriptionFromCSV(String filePath, Set<String> types) throws IOException
 	{
 		Map<String, String> returnMap = new HashMap<>();
+		if(filePath == null || filePath == " " || types == null || types.isEmpty())
+		{
+			return returnMap; //Return empty map if filePath or types is null or empty
+		}
 		try (Stream<String> stream = Files.lines(Paths.get((filePath))))
 		{
 		if(types!=null && !types.isEmpty()){

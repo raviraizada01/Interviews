@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="org.bop.csv.CSVFileReaderTest" time="0.475" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="org.bop.JSON.JsonParserTest" time="0.284" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Tools\jdk1.8.0\jre\bin"/>
@@ -60,7 +60,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.bop.csv.CSVFileReaderTest" name="testGetDescriptionFromCSVEmpty" time="0.252"/>
-  <testcase classname="org.bop.csv.CSVFileReaderTest" name="testGetDescriptionFromCSVWrongPath" time="0"/>
-  <testcase classname="org.bop.csv.CSVFileReaderTest" name="testGetDescriptionFromCSV" time="0.032"/>
+  <testcase classname="org.bop.JSON.JsonParserTest" name="testFindTypeFromJson" time="0.225"/>
+  <testcase classname="org.bop.JSON.JsonParserTest" name="testFindTypeFromJsonEmpty" time="0.052"/>
+  <testcase classname="org.bop.JSON.JsonParserTest" name="testFindTypeFromJsonWrong" time="0.001"/>
 </testsuite>

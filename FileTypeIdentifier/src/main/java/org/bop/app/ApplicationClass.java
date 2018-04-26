@@ -13,11 +13,20 @@ import org.bop.JSON.JsonParser;
 import org.bop.csv.CSVFileReader;
 import org.bop.xls.XLSReader;
 
+/**
+ * @author Ravi Raizada
+ * @Description This is the main application class from where all the functions will be called and output will be generated 
+ *
+ */
 public class ApplicationClass
 {
 	public static void main(String[] args) throws IOException
 	{
+		//Here we can set the list of files as input, Later on we can take this input from some webservice or from UI.
+		
 		Set<String> files = new HashSet<String>(Arrays.asList("config.xml", "web.xml", "my.doc", "test.java", "mov.torrent", "song.mp3"));
+		
+		//This will create a set of File Extensions from the files list to avoid duplicate extension. 
 		Set<String> types =	files.stream()
 								 .map(name -> name.substring(name.lastIndexOf(".")).toUpperCase())
 								 .collect(Collectors.toSet());
@@ -26,10 +35,19 @@ public class ApplicationClass
 		String JSONFilePath = "bin\\data\\languageData.json";
 		String CSVFilePath = "bin\\data\\generalData.csv";
 		
-		Map<String, Map<String, String>> categoryMap = XLSReader.findCategoryFromXls(XlsFilePath, types);
-		Map<String, String> typeMap = JsonParser.findTypeFromJson(JSONFilePath, types);
-		Map<String, String> descMap = CSVFileReader.getDescriptionFromCSV(CSVFilePath, types);
+		Map<String, Map<String, String>> categoryMap = XLSReader.findCategoryFromXls(XlsFilePath, types); //Get category data from XLS file 
+		Map<String, String> typeMap = JsonParser.findTypeFromJson(JSONFilePath, types); //Get Language data from JSON file
+		Map<String, String> descMap = CSVFileReader.getDescriptionFromCSV(CSVFilePath, types); //Get Description from CSV file. 
 		
+		List<FileDescription> fileDescriptionList = ApplicationClass.setFileData(categoryMap, typeMap, descMap, files);
+
+		//In order to serialize this List into JSON format which can be sent back through the API.
+		String fileDescJson = new flexjson.JSONSerializer().exclude("class").prettyPrint(true).deepSerialize(fileDescriptionList);
+		
+		System.out.println(fileDescJson);
+	}
+	
+	public static List<FileDescription> setFileData(Map<String, Map<String, String>> categoryMap, Map<String, String> typeMap, Map<String, String> descMap, Set<String> files){
 		List<FileDescription> fileDescriptionList = new ArrayList<>();
 		for (String file:files)
 		{
@@ -44,10 +62,7 @@ public class ApplicationClass
 			fileDesc.setLanguage(typeMap.getOrDefault(type, "No Information Available"));
 			fileDescriptionList.add(fileDesc);
 		}
-		
-		String fileDescJson = new flexjson.JSONSerializer().exclude("class").prettyPrint(true).deepSerialize(fileDescriptionList);
-		System.out.println(fileDescJson);
-
+		return fileDescriptionList;
 	}
 }
 

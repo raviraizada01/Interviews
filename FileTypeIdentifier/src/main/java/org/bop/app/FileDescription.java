@@ -2,11 +2,12 @@ package org.bop.app;
 
 import java.io.Serializable;
 
+/**
+ * @author Ravi Raizada
+ * @Description This class is for creating the final output containing all the information about the file provided.
+ */
 public class FileDescription implements Serializable
 {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	private String fileName;

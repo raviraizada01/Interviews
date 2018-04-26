@@ -1,6 +1,7 @@
 package org.bop.JSON;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -45,13 +46,18 @@ public class JsonParserTest
 	}
 	
 	@Test
-	public void testFindTypeFromJsonEmpty() throws FileNotFoundException{
+	public void testEmptyMap() throws FileNotFoundException{
 		Assert.assertEquals(JsonParser.findTypeFromJson(JSONFilePath, new HashSet<>()), new HashMap<String,String>());
 	} 
 	
 	@Test(expected = FileNotFoundException.class)
-	public void testFindTypeFromJsonWrong(){
-		
+	public void testWrongPath() throws FileNotFoundException{
+		JsonParser.findTypeFromJson("d:\\wrongpath", extensionMap);
+	}
+	
+	@Test
+	public void testForNullValues() throws IOException{
+		Assert.assertNotNull(JsonParser.findTypeFromJson(null, null));
 	}
 	
 }

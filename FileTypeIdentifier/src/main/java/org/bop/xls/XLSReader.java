@@ -2,12 +2,15 @@ package org.bop.xls;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
@@ -18,14 +21,30 @@ import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Row;
 
+/**
+ * @author Ravi Raizada
+ * @Description This class will traverse a XLS Workbook and find out the category and details of Extensions provided.
+ *
+ */
 public class XLSReader
 {
 	private static Map<String, Map<String, String>> finalMap = new HashMap<>();
 	private static String NO_INFO = "No Information Available";
 
+	/**
+	 * @param filePath
+	 * @param types
+	 * @return 
+	 * @throws FileNotFoundException
+	 * @throws IOException
+	 */
 	@SuppressWarnings("unchecked")
-	public static Map<String, Map<String, String>> findCategoryFromXls(String filePath, Set<String> types)
+	public static Map<String, Map<String, String>> findCategoryFromXls(String filePath, Set<String> types) throws FileNotFoundException, IOException
 	{
+		if(filePath == null || filePath == " " || types == null || types.isEmpty())
+		{
+			return new HashMap<String, Map<String, String>>(); //Return empty map if filePath or types is null or empty
+		}
 		try (FileInputStream file = new FileInputStream(new File(filePath)); HSSFWorkbook workbook = new HSSFWorkbook(file))
 		{
 			int length = workbook.getNumberOfSheets();
@@ -63,8 +82,9 @@ public class XLSReader
 				}
 			}
 		}
-		catch (Exception e)
+		catch (InterruptedException | ExecutionException e)
 		{
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return finalMap;

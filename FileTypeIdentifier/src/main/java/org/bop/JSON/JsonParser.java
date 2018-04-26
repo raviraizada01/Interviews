@@ -9,11 +9,30 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * @author Ravi Raizada
+ * @Description This class will traverse a JSON file and find out the details of Extensions provided.
+ *
+ */
 public class JsonParser
 {
+	
+	/**
+	 * @param filePath
+	 * @param types
+	 * @return Map containing details of Language type of file types provided
+	 * @throws FileNotFoundException
+	 */
 	public static Map<String, String> findTypeFromJson(String filePath, Set<String> types) throws FileNotFoundException
 	{
 		Map<String, String> returnMap = new HashMap<>();
+		
+		if(filePath == null || filePath == " " || types == null || types.isEmpty())
+		{
+			return returnMap; //Return empty map if filePath or types is null or empty
+		}
+		else
+		{
 		Map<String, String> fileDesc = new flexjson.JSONDeserializer<List<JSONData>>()
 												  .use(null, ArrayList.class)
 												  .use("values", JSONData.class)
@@ -24,21 +43,28 @@ public class JsonParser
 		
 		
 		if (!fileDesc.isEmpty())
-		{
-			types.stream().forEach(ext ->
-										{
-											if (fileDesc.get(ext) != null){
-												returnMap.put(ext, fileDesc.get(ext));
-											}
-											else{
-												returnMap.put(ext, "No Information Available");
-											}
-										});
+			{
+				types.stream().forEach(ext ->
+				{
+					if (fileDesc.get(ext) != null)
+					{
+						returnMap.put(ext, fileDesc.get(ext));
+					}
+					else
+					{
+						returnMap.put(ext, "No Information Available");
+					}
+				});
+			}
 		}
 		return returnMap;
 	}
 }
 
+/**
+ * @author Ravi Raizada
+ * @Description This class is used for JSON Serialization and Deserialization of JSON Data
+ */
 class JSONData
 {
 	private String Type;

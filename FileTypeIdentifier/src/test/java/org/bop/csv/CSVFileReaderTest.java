@@ -45,13 +45,18 @@ public class CSVFileReaderTest
 	}
 	
 	@Test
-	public void testGetDescriptionFromCSVEmpty() throws IOException{
+	public void testEmptyMap() throws IOException{
 		Assert.assertEquals(CSVFileReader.getDescriptionFromCSV(CSVFilePath, new HashSet<String>()), new HashMap<String,String>());
 	}
 	
 	@Test(expected = IOException.class)
-	public void testGetDescriptionFromCSVWrongPath() throws IOException{
+	public void testWrongPath() throws IOException{
 		CSVFileReader.getDescriptionFromCSV("d:\\ab.csv", extensionMap);
+	}
+	
+	@Test
+	public void testForNullValues() throws IOException{
+		Assert.assertNotNull(CSVFileReader.getDescriptionFromCSV(null, null));
 	}
 	
 }
