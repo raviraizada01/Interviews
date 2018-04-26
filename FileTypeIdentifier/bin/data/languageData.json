@@ -1,0 +1,7722 @@
+[
+ {
+   "Type": ".ms",
+   "Language": "3D Studio Max script source code"
+ },
+ {
+   "Type": ".3dfbat",
+   "Language": "3DField command file"
+ },
+ {
+   "Type": ".nms",
+   "Language": "3DVIA Virtools graphical script"
+ },
+ {
+   "Type": ".cnt",
+   "Language": "602Pro PC Suite macro file"
+ },
+ {
+   "Type": ".wpm",
+   "Language": "602Pro PC Suite macro file"
+ },
+ {
+   "Type": ".a2x",
+   "Language": "a2x file"
+ },
+ {
+   "Type": ".a86",
+   "Language": "A86 Assembly language source code"
+ },
+ {
+   "Type": ".abap",
+   "Language": "ABAP source code"
+ },
+ {
+   "Type": ".abc",
+   "Language": "ABC programming language data"
+ },
+ {
+   "Type": ".dfd",
+   "Language": "ABC programming language dyadic functions data"
+ },
+ {
+   "Type": ".dpd",
+   "Language": "ABC programming language dyadic predicates"
+ },
+ {
+   "Type": ".zfd",
+   "Language": "ABC Zeroadic functions data"
+ },
+ {
+   "Type": ".zpd",
+   "Language": "ABC zeroadic predicates"
+ },
+ {
+   "Type": ".abl",
+   "Language": "ABEL hardware description language data"
+ },
+ {
+   "Type": ".psl",
+   "Language": "Accellera property specification language source code"
+ },
+ {
+   "Type": ".acgi",
+   "Language": "ACGI script (WWW)"
+ },
+ {
+   "Type": ".chef",
+   "Language": "Acme::Chef Chef source code file"
+ },
+ {
+   "Type": ".aml",
+   "Language": "ACPI machine language file"
+ },
+ {
+   "Type": ".acr",
+   "Language": "ACRobot script file"
+ },
+ {
+   "Type": ".sxv",
+   "Language": "Action Repeater macro file"
+ },
+ {
+   "Type": ".aep",
+   "Language": "Activ E-Book project file"
+ },
+ {
+   "Type": ".aspx",
+   "Language": "Active Server Page Extended ASP.NET script"
+ },
+ {
+   "Type": ".asp",
+   "Language": "Active Server Page script page"
+ },
+ {
+   "Type": ".ascx",
+   "Language": "Active Server Pages web user control file"
+ },
+ {
+   "Type": ".asmx",
+   "Language": "Active Server Plus Web Services source file"
+ },
+ {
+   "Type": ".axs",
+   "Language": "ActiveX script"
+ },
+ {
+   "Type": ".ad2",
+   "Language": "ad2 web page script file"
+ },
+ {
+   "Type": ".ada",
+   "Language": "ADA language source code"
+ },
+ {
+   "Type": ".a",
+   "Language": "Ada programming language source code"
+ },
+ {
+   "Type": ".wowproj",
+   "Language": "AddOn Studio for World of Warcraft project file"
+ },
+ {
+   "Type": ".adiumscripts",
+   "Language": "Adium AppleScripts file"
+ },
+ {
+   "Type": ".jsx",
+   "Language": "Adobe After Effects script"
+ },
+ {
+   "Type": ".airi",
+   "Language": "Adobe AIR intermediate data"
+ },
+ {
+   "Type": ".ane",
+   "Language": "Adobe AIR native extension"
+ },
+ {
+   "Type": ".cp",
+   "Language": "Adobe Audition script file"
+ },
+ {
+   "Type": ".a5r",
+   "Language": "Adobe Authorware packaged file without runtime"
+ },
+ {
+   "Type": ".cprr",
+   "Language": "Adobe Captivate XML script file"
+ },
+ {
+   "Type": ".cfml",
+   "Language": "Adobe ColdFusion Markup language file"
+ },
+ {
+   "Type": ".cfm",
+   "Language": "Adobe ColdFusion template"
+ },
+ {
+   "Type": ".vtml",
+   "Language": "Adobe ColdFusion Visual Tool Markup Language file"
+ },
+ {
+   "Type": ".vtm",
+   "Language": "Adobe ColdFusion Visual Tool Markup Language query file"
+ },
+ {
+   "Type": ".lbi",
+   "Language": "Adobe Dreamweaver library file"
+ },
+ {
+   "Type": ".hse",
+   "Language": "Adobe Dreamweaver snippet file"
+ },
+ {
+   "Type": ".dwt",
+   "Language": "Adobe Dreamweaver template"
+ },
+ {
+   "Type": ".an",
+   "Language": "Adobe Edge Animate project file"
+ },
+ {
+   "Type": ".htd",
+   "Language": "Adobe ExtendScript HTML file"
+ },
+ {
+   "Type": ".exv",
+   "Language": "Adobe Extension Manager file"
+ },
+ {
+   "Type": ".jsf",
+   "Language": "Adobe Fireworks batch script"
+ },
+ {
+   "Type": ".actionscript",
+   "Language": "Adobe Flash ActionScript"
+ },
+ {
+   "Type": ".asc",
+   "Language": "Adobe Flash ActionScript communications scripts"
+ },
+ {
+   "Type": ".as",
+   "Language": "Adobe Flash ActionScript document"
+ },
+ {
+   "Type": ".asr",
+   "Language": "Adobe Flash ActionScript remote file"
+ },
+ {
+   "Type": ".lmv",
+   "Language": "Adobe Flash source code"
+ },
+ {
+   "Type": ".agls",
+   "Language": "Adobe GoLive snippet file"
+ },
+ {
+   "Type": ".dwt",
+   "Language": "Adobe GoLive template file"
+ },
+ {
+   "Type": ".aia",
+   "Language": "Adobe Illustrator action data"
+ },
+ {
+   "Type": ".mmjs",
+   "Language": "Adobe JavaScript document file"
+ },
+ {
+   "Type": ".jsxinc",
+   "Language": "Adobe JavaScript file"
+ },
+ {
+   "Type": ".isa",
+   "Language": "Adobe Photoshop ImageReady action data"
+ },
+ {
+   "Type": ".hydra",
+   "Language": "Adobe Pixel Bender kernel"
+ },
+ {
+   "Type": ".astx",
+   "Language": "Adobe Story exported script"
+ },
+ {
+   "Type": ".qlc",
+   "Language": "Adobe Type Manager ATM Type 1 fonts script file"
+ },
+ {
+   "Type": ".ads",
+   "Language": "ADS applications file"
+ },
+ {
+   "Type": ".cc",
+   "Language": "ADS source code file"
+ },
+ {
+   "Type": ".ats",
+   "Language": "Advanced ETL Processor transformation script"
+ },
+ {
+   "Type": ".3rf",
+   "Language": "Advent 3B2 extensions script cross reference file"
+ },
+ {
+   "Type": ".agc",
+   "Language": "AfterGRASP compiled script"
+ },
+ {
+   "Type": ".ags",
+   "Language": "AfterGRASP script file"
+ },
+ {
+   "Type": ".jak",
+   "Language": "AHEAD Tool Suite data"
+ },
+ {
+   "Type": ".aifb",
+   "Language": "AIF Builder project"
+ },
+ {
+   "Type": ".s4e",
+   "Language": "Airplay SDK header file"
+ },
+ {
+   "Type": ".aba",
+   "Language": "AkAbak abacus formula script"
+ },
+ {
+   "Type": ".aks",
+   "Language": "AkAbak script"
+ },
+ {
+   "Type": ".akt",
+   "Language": "Aksharamala keymap source file"
+ },
+ {
+   "Type": ".a3c",
+   "Language": "Alan v3 adventure code file"
+ },
+ {
+   "Type": ".alan",
+   "Language": "Alan v3 source code"
+ },
+ {
+   "Type": ".mln",
+   "Language": "Alchemy source data"
+ },
+ {
+   "Type": ".amw",
+   "Language": "Alcorn McBride show controller data"
+ },
+ {
+   "Type": ".a2w",
+   "Language": "Alice program world data"
+ },
+ {
+   "Type": ".apt",
+   "Language": "Almost Plain text file"
+ },
+ {
+   "Type": ".alx",
+   "Language": "Alpha Five database information file"
+ },
+ {
+   "Type": ".axb",
+   "Language": "Alpha5 Xbasic script"
+ },
+ {
+   "Type": ".adb",
+   "Language": "Alphacam die-cut VB macro file"
+ },
+ {
+   "Type": ".afb",
+   "Language": "Alphacam flame VB macro file"
+ },
+ {
+   "Type": ".alm",
+   "Language": "Alphacam laser parameter macro file"
+ },
+ {
+   "Type": ".alb",
+   "Language": "Alphacam laser VB macro file"
+ },
+ {
+   "Type": ".atm",
+   "Language": "Alphacam lathe parameter macro file"
+ },
+ {
+   "Type": ".apb",
+   "Language": "Alphacam punch VB macro"
+ },
+ {
+   "Type": ".arb",
+   "Language": "Alphacam router VB macro"
+ },
+ {
+   "Type": ".asm",
+   "Language": "Alphacam stone parameter macro file"
+ },
+ {
+   "Type": ".ajm",
+   "Language": "Alphacam water jet parameter macro"
+ },
+ {
+   "Type": ".aem",
+   "Language": "Alphacam wire EDM parameter macro"
+ },
+ {
+   "Type": ".awl",
+   "Language": "Alternative Web Language programming language file"
+ },
+ {
+   "Type": ".aah",
+   "Language": "Amazingly Abstracted HTML document"
+ },
+ {
+   "Type": ".smm",
+   "Language": "Ami Pro macro file"
+ },
+ {
+   "Type": ".e",
+   "Language": "Amiga E source code file"
+ },
+ {
+   "Type": ".m",
+   "Language": "Amiga E source module"
+ },
+ {
+   "Type": ".scro",
+   "Language": "Amira script object file"
+ },
+ {
+   "Type": ".amos",
+   "Language": "AMOS Basic code file"
+ },
+ {
+   "Type": ".gradle",
+   "Language": "Android Studio build data"
+ },
+ {
+   "Type": ".a8s",
+   "Language": "Anim8or script file"
+ },
+ {
+   "Type": ".anjuta",
+   "Language": "Anjuta DevStudio project file"
+ },
+ {
+   "Type": ".axe",
+   "Language": "Annotated XML example file"
+ },
+ {
+   "Type": ".c",
+   "Language": "ANSI C script file"
+ },
+ {
+   "Type": ".wsdd",
+   "Language": "Apache Axis Web Service Deployment Descriptor (WSDD)"
+ },
+ {
+   "Type": ".xba",
+   "Language": "Apache OpenOffice Basic module"
+ },
+ {
+   "Type": ".rvt",
+   "Language": "Apache Rivet Tcl file"
+ },
+ {
+   "Type": ".svn-base",
+   "Language": "Apache Subversion base file"
+ },
+ {
+   "Type": ".tml",
+   "Language": "Apache Tapestry markup language document"
+ },
+ {
+   "Type": ".apg",
+   "Language": "APGen script file"
+ },
+ {
+   "Type": ".mca",
+   "Language": "Apis Ceratina file"
+ },
+ {
+   "Type": ".i",
+   "Language": "APLAC source code data file"
+ },
+ {
+   "Type": ".as3",
+   "Language": "APLPLUS source code file"
+ },
+ {
+   "Type": ".asf",
+   "Language": "APLPLUS/PC shared file"
+ },
+ {
+   "Type": ".asc",
+   "Language": "Apohysis script file"
+ },
+ {
+   "Type": ".dcproj",
+   "Language": "Apple Dashcode project"
+ },
+ {
+   "Type": ".wdgtproj",
+   "Language": "Apple Dashcode project"
+ },
+ {
+   "Type": ".transcriptstyle",
+   "Language": "Apple iChat transcript style file"
+ },
+ {
+   "Type": ".xib",
+   "Language": "Apple Interface Builder file"
+ },
+ {
+   "Type": ".script editor",
+   "Language": "Apple Mac OS X AppleScript script file"
+ },
+ {
+   "Type": ".dist",
+   "Language": "Apple Mac OS X Installer distribution script"
+ },
+ {
+   "Type": ".entitlements",
+   "Language": "Apple Mac OS X sandbox file"
+ },
+ {
+   "Type": ".pbxproj",
+   "Language": "Apple Project Builder Xcode project"
+ },
+ {
+   "Type": ".osas",
+   "Language": "Apple Script library tani script file"
+ },
+ {
+   "Type": ".swift",
+   "Language": "Apple Swift programming language source code"
+ },
+ {
+   "Type": ".wod",
+   "Language": "Apple WebObjects web application method file"
+ },
+ {
+   "Type": ".pbxbtree",
+   "Language": "Apple Xcode auto-complete file"
+ },
+ {
+   "Type": ".mm",
+   "Language": "Apple Xcode core Objective-C program source code"
+ },
+ {
+   "Type": ".dsym",
+   "Language": "Apple Xcode debug symbols file"
+ },
+ {
+   "Type": ".playground",
+   "Language": "Apple Xcode playground file"
+ },
+ {
+   "Type": ".xcodeproj",
+   "Language": "Apple XCode software development project"
+ },
+ {
+   "Type": ".sdef",
+   "Language": "AppleScript dictionary scripting definition"
+ },
+ {
+   "Type": ".dplt",
+   "Language": "AppleScript Droplet file"
+ },
+ {
+   "Type": ".scpt",
+   "Language": "AppleScript script"
+ },
+ {
+   "Type": ".applescript",
+   "Language": "AppleScript script"
+ },
+ {
+   "Type": ".scptd",
+   "Language": "AppleScript script bundle file"
+ },
+ {
+   "Type": ".scriptsuite",
+   "Language": "AppleScript script suite file"
+ },
+ {
+   "Type": ".scriptterminology",
+   "Language": "AppleScript script terminology data"
+ },
+ {
+   "Type": ".fil",
+   "Language": "Application Generator template"
+ },
+ {
+   "Type": ".nsx",
+   "Language": "AppStudio project"
+ },
+ {
+   "Type": ".ook",
+   "Language": "Arachne batch script file"
+ },
+ {
+   "Type": ".eek",
+   "Language": "Arachne script file"
+ },
+ {
+   "Type": ".lamp",
+   "Language": "ArchiCAD for MAC Geometric Description Language file"
+ },
+ {
+   "Type": ".dsym",
+   "Language": "ArchiCAD for MAC Geometric Description Language file"
+ },
+ {
+   "Type": ".text",
+   "Language": "ArchiCAD for MAC Geometric Description Language file"
+ },
+ {
+   "Type": ".msym",
+   "Language": "ArchiCAD for MAC Geometric Description Language file"
+ },
+ {
+   "Type": ".rsym",
+   "Language": "ArchiCAD for Mac Geometric Description Language file"
+ },
+ {
+   "Type": ".wsym",
+   "Language": "ArchiCAD for MAC Geometric Description Language file"
+ },
+ {
+   "Type": ".isym",
+   "Language": "ArchiCAD for Mac Geometric Description Language file"
+ },
+ {
+   "Type": ".gsym",
+   "Language": "ArchiCAD for Mac Geometric Description Language file"
+ },
+ {
+   "Type": ".dor",
+   "Language": "ArchiCAD Geometric Description Language"
+ },
+ {
+   "Type": ".msm",
+   "Language": "ArchiCAD Geometric Description Language data"
+ },
+ {
+   "Type": ".lmp",
+   "Language": "ArchiCAD Geometric Description Language file"
+ },
+ {
+   "Type": ".ism",
+   "Language": "ArchiCAD Geometric Description Language file"
+ },
+ {
+   "Type": ".win",
+   "Language": "ArchiCAD Geometric Description Language file"
+ },
+ {
+   "Type": ".rsm",
+   "Language": "ArchiCAD Geometric Description Language script"
+ },
+ {
+   "Type": ".ave",
+   "Language": "ArcView Avenue script"
+ },
+ {
+   "Type": ".ino",
+   "Language": "Arduino sketch"
+ },
+ {
+   "Type": ".m51",
+   "Language": "ARM Keil Tools linker listing data"
+ },
+ {
+   "Type": ".cgx",
+   "Language": "ARM RL-TCPnet HTTP Web Server XML web page update script"
+ },
+ {
+   "Type": ".sct",
+   "Language": "ARM uVision IDE scatter file"
+ },
+ {
+   "Type": ".arnoldc",
+   "Language": "ArnoldC source code file"
+ },
+ {
+   "Type": ".ff",
+   "Language": "ARRIS SigmaC source file"
+ },
+ {
+   "Type": ".art",
+   "Language": "Artifacts artifact data"
+ },
+ {
+   "Type": ".artproj",
+   "Language": "Artifacts project file"
+ },
+ {
+   "Type": ".aiml",
+   "Language": "Artificial Intelligence Markup Language"
+ },
+ {
+   "Type": ".arscript",
+   "Language": "ArtRage script file"
+ },
+ {
+   "Type": ".asic",
+   "Language": "ASIC source code"
+ },
+ {
+   "Type": ".asax",
+   "Language": "ASP.NET application optional source file"
+ },
+ {
+   "Type": ".asp+",
+   "Language": "ASP.NET ASP+ file"
+ },
+ {
+   "Type": ".master",
+   "Language": "ASP.NET master page file"
+ },
+ {
+   "Type": ".armx",
+   "Language": "ASP.NET source file"
+ },
+ {
+   "Type": ".axd",
+   "Language": "ASP.NET web handler"
+ },
+ {
+   "Type": ".asm",
+   "Language": "Assembler source code"
+ },
+ {
+   "Type": ".ass",
+   "Language": "Assembler/Disassembler 68HC11 file"
+ },
+ {
+   "Type": ".asi",
+   "Language": "Assembly language header"
+ },
+ {
+   "Type": ".hsm",
+   "Language": "Assembly language header"
+ },
+ {
+   "Type": ".a",
+   "Language": "Assembly source code file"
+ },
+ {
+   "Type": ".asta",
+   "Language": "Astah project"
+ },
+ {
+   "Type": ".agi",
+   "Language": "Asterisk Gateway Interface data"
+ },
+ {
+   "Type": ".db",
+   "Language": "Atari Jaguar debugger script file"
+ },
+ {
+   "Type": ".das",
+   "Language": "Atari Jaguar DSP assembly source file"
+ },
+ {
+   "Type": ".gas",
+   "Language": "Atari Jaguar GPU assembly source file"
+ },
+ {
+   "Type": ".c",
+   "Language": "Atari Lite-C script file"
+ },
+ {
+   "Type": ".ogl",
+   "Language": "ATI overlay source code"
+ },
+ {
+   "Type": ".atomsvc",
+   "Language": "Atom Syndication file format"
+ },
+ {
+   "Type": ".atl",
+   "Language": "ATP Assembler source file"
+ },
+ {
+   "Type": ".ebm",
+   "Language": "Attachmate Extra! macro file"
+ },
+ {
+   "Type": ".vlx",
+   "Language": "AutoCAD AutoLISP macro application"
+ },
+ {
+   "Type": ".c",
+   "Language": "AutoCAD Development System (ADS) source code file"
+ },
+ {
+   "Type": ".fas",
+   "Language": "AutoCAD Fast-load Auto LISP compiled data"
+ },
+ {
+   "Type": ".mnd",
+   "Language": "AutoCAD Menu Compiler data"
+ },
+ {
+   "Type": ".mcr",
+   "Language": "Autodesk 3D Studio Max macroscript file"
+ },
+ {
+   "Type": ".mzp",
+   "Language": "Autodesk 3D Studio Max MAXScript zip package"
+ },
+ {
+   "Type": ".dvb",
+   "Language": "Autodesk AutoCAD VBA source code"
+ },
+ {
+   "Type": ".ahk",
+   "Language": "AutoHotkey script"
+ },
+ {
+   "Type": ".a3x",
+   "Language": "AutoIt compiled script"
+ },
+ {
+   "Type": ".aut",
+   "Language": "AutoIt pre v3 script file"
+ },
+ {
+   "Type": ".au3",
+   "Language": "AutoIt v3 script"
+ },
+ {
+   "Type": ".lsp",
+   "Language": "AutoLISP language source code"
+ },
+ {
+   "Type": ".amf",
+   "Language": "Autolog macro files"
+ },
+ {
+   "Type": ".ago",
+   "Language": "Autolog script"
+ },
+ {
+   "Type": ".atmn",
+   "Language": "Automation Anywhere macro file"
+ },
+ {
+   "Type": ".atp",
+   "Language": "Automise project file"
+ },
+ {
+   "Type": ".autoplay",
+   "Language": "AutoPlay Media Studio project file"
+ },
+ {
+   "Type": ".arxml",
+   "Language": "AUTOSAR XML data"
+ },
+ {
+   "Type": ".m2r",
+   "Language": "Avaya Mib2Rules Perl script"
+ },
+ {
+   "Type": ".avc",
+   "Language": "Avid Media Composer script file"
+ },
+ {
+   "Type": ".avsi",
+   "Language": "Avisynth script file"
+ },
+ {
+   "Type": ".avs",
+   "Language": "Avisynth script file"
+ },
+ {
+   "Type": ".awd",
+   "Language": "AWK language source code"
+ },
+ {
+   "Type": ".awk",
+   "Language": "AWK programming language script"
+ },
+ {
+   "Type": ".ad",
+   "Language": "AxSys script file"
+ },
+ {
+   "Type": ".rpprj",
+   "Language": "Axure RP project file"
+ },
+ {
+   "Type": ".bsh",
+   "Language": "Bash data"
+ },
+ {
+   "Type": ".configure",
+   "Language": "Bash file"
+ },
+ {
+   "Type": ".b",
+   "Language": "BASIC language source file"
+ },
+ {
+   "Type": ".bas",
+   "Language": "Basic source code"
+ },
+ {
+   "Type": ".bs2",
+   "Language": "BASIC Stamp 2 code file"
+ },
+ {
+   "Type": ".bgm",
+   "Language": "Basic4GL 3D object"
+ },
+ {
+   "Type": ".bxb",
+   "Language": "BasicX compiled project bytecode"
+ },
+ {
+   "Type": ".bxp",
+   "Language": "BasicX-24 basic express compiler module list"
+ },
+ {
+   "Type": ".bat",
+   "Language": "Batch file (executable)"
+ },
+ {
+   "Type": ".bps",
+   "Language": "BatchPhoto script file"
+ },
+ {
+   "Type": ".brs",
+   "Language": "Batchrun batch file"
+ },
+ {
+   "Type": ".bbc",
+   "Language": "BBC BASIC for Windows data"
+ },
+ {
+   "Type": ".bbproject",
+   "Language": "BBEdit project file"
+ },
+ {
+   "Type": ".bdt",
+   "Language": "BDT script"
+ },
+ {
+   "Type": ".bml",
+   "Language": "Bean Scripting Framework (BSF) file"
+ },
+ {
+   "Type": ".bxml",
+   "Language": "Bean XML file"
+ },
+ {
+   "Type": ".bsh",
+   "Language": "BeanShell script file"
+ },
+ {
+   "Type": ".mvba",
+   "Language": "Bentley MicroStation VBA project"
+ },
+ {
+   "Type": ".beta",
+   "Language": "Beta programming language source code"
+ },
+ {
+   "Type": ".bet",
+   "Language": "BETA source file"
+ },
+ {
+   "Type": ".bml",
+   "Language": "Better Markup Language"
+ },
+ {
+   "Type": ".brml",
+   "Language": "Big Red Markup Language source code"
+ },
+ {
+   "Type": ".bml",
+   "Language": "Binary Markup Language document"
+ },
+ {
+   "Type": ".bsml",
+   "Language": "Bioinformatic data file"
+ },
+ {
+   "Type": ".yxx",
+   "Language": "Bison source code"
+ },
+ {
+   "Type": ".bms",
+   "Language": "Bitmove Multimedia Script file"
+ },
+ {
+   "Type": ".cod",
+   "Language": "Blackberry compiled Java code"
+ },
+ {
+   "Type": ".rrc",
+   "Language": "BlackBerry Java resource content"
+ },
+ {
+   "Type": ".jdp",
+   "Language": "BlackBerry JDE data"
+ },
+ {
+   "Type": ".rrh",
+   "Language": "BlackBerry resource header file"
+ },
+ {
+   "Type": ".bltx",
+   "Language": "BlaTeX source code"
+ },
+ {
+   "Type": ".bb",
+   "Language": "Blitz Basic source code file"
+ },
+ {
+   "Type": ".galaxy",
+   "Language": "Blizzard Starcraft 2 Galaxy script file"
+ },
+ {
+   "Type": ".bax",
+   "Language": "Bluebeam Revu markup document"
+ },
+ {
+   "Type": ".bsv",
+   "Language": "Bluespec System Verilog data"
+ },
+ {
+   "Type": ".bzs",
+   "Language": "BlueZone script"
+ },
+ {
+   "Type": ".boo",
+   "Language": "Boo class data"
+ },
+ {
+   "Type": ".borland",
+   "Language": "Borland C makefile"
+ },
+ {
+   "Type": ".bpr",
+   "Language": "Borland C++ Builder XML project file"
+ },
+ {
+   "Type": ".dpr",
+   "Language": "Borland C++ default project file"
+ },
+ {
+   "Type": ".bcc",
+   "Language": "Borland C++ file/makefile"
+ },
+ {
+   "Type": ".kb",
+   "Language": "Borland C++ Keyboard Script file"
+ },
+ {
+   "Type": ".bcp",
+   "Language": "Borland C++ makefile"
+ },
+ {
+   "Type": ".obr",
+   "Language": "Borland C++ object browser data"
+ },
+ {
+   "Type": ".csm",
+   "Language": "Borland C++ precompiled header file"
+ },
+ {
+   "Type": ".sym",
+   "Language": "Borland C++ precompiled header file"
+ },
+ {
+   "Type": ".ide",
+   "Language": "Borland C++ project"
+ },
+ {
+   "Type": ".pdl",
+   "Language": "Borland C++ project description language file"
+ },
+ {
+   "Type": ".rws",
+   "Language": "Borland C++ resource workshop symbol file"
+ },
+ {
+   "Type": ".tem",
+   "Language": "Borland C++ Turbo Editor Macro Language script file"
+ },
+ {
+   "Type": ".cas",
+   "Language": "Borland combined C/Assembly source code file"
+ },
+ {
+   "Type": ".dpj",
+   "Language": "Borland Delphi project file"
+ },
+ {
+   "Type": ".bdsproj",
+   "Language": "Borland Developer Studio project"
+ },
+ {
+   "Type": ".bal",
+   "Language": "Borland programming language source code"
+ },
+ {
+   "Type": ".jpx",
+   "Language": "Borland Together implementation project"
+ },
+ {
+   "Type": ".turboc3",
+   "Language": "Borland Turbo C makefile"
+ },
+ {
+   "Type": ".bsd",
+   "Language": "Boundary Scan Description Language file"
+ },
+ {
+   "Type": ".shit",
+   "Language": "Bourne Shell Server Page"
+ },
+ {
+   "Type": ".bmml",
+   "Language": "Braille Music Markup Language file"
+ },
+ {
+   "Type": ".brx",
+   "Language": "BREW MP application resource data"
+ },
+ {
+   "Type": ".car",
+   "Language": "Brew MP component application resource file"
+ },
+ {
+   "Type": ".b2d",
+   "Language": "Brutus2D source code file"
+ },
+ {
+   "Type": ".arq",
+   "Language": "BSM Action Request System client macro"
+ },
+ {
+   "Type": ".bte",
+   "Language": "BTEWin script"
+ },
+ {
+   "Type": ".builder",
+   "Language": "Builder script"
+ },
+ {
+   "Type": ".b",
+   "Language": "BuRg3r definition file"
+ },
+ {
+   "Type": ".bur",
+   "Language": "BuRg3r source code"
+ },
+ {
+   "Type": ".mpx",
+   "Language": "BX-24 Basic Express compiler map"
+ },
+ {
+   "Type": ".dms",
+   "Language": "BYOND script file"
+ },
+ {
+   "Type": ".jlc",
+   "Language": "Byte compiled Lisp-based script file"
+ },
+ {
+   "Type": ".msc",
+   "Language": "C makefile"
+ },
+ {
+   "Type": ".h",
+   "Language": "C/C++ header data"
+ },
+ {
+   "Type": ".c",
+   "Language": "C/C++ main source code"
+ },
+ {
+   "Type": ".sma",
+   "Language": "C/C++ source code file"
+ },
+ {
+   "Type": ".zfs",
+   "Language": "C++ assembly source file"
+ },
+ {
+   "Type": ".dfm",
+   "Language": "C++ Builder 6 form file"
+ },
+ {
+   "Type": ".bpk",
+   "Language": "C++ Builder package file"
+ },
+ {
+   "Type": ".qac",
+   "Language": "C++ Dedicated PROGRUN file"
+ },
+ {
+   "Type": ".dlg",
+   "Language": "C++ dialogue script"
+ },
+ {
+   "Type": ".hpp",
+   "Language": "C++ header data"
+ },
+ {
+   "Type": ".hxx",
+   "Language": "C++ header file"
+ },
+ {
+   "Type": ".chh",
+   "Language": "C++ header file"
+ },
+ {
+   "Type": ".hh",
+   "Language": "C++ header file"
+ },
+ {
+   "Type": ".h__",
+   "Language": "C++ header file"
+ },
+ {
+   "Type": ".cc",
+   "Language": "C++ language source code"
+ },
+ {
+   "Type": ".cpp",
+   "Language": "C++ main source code file format"
+ },
+ {
+   "Type": ".cxx",
+   "Language": "C++ main source code file format"
+ },
+ {
+   "Type": ".gch",
+   "Language": "C++ precompiled header"
+ },
+ {
+   "Type": ".rh",
+   "Language": "C++ resource header data"
+ },
+ {
+   "Type": ".c++",
+   "Language": "C++ source code"
+ },
+ {
+   "Type": ".c__",
+   "Language": "C++ source code"
+ },
+ {
+   "Type": ".stl",
+   "Language": "C++ standard template library"
+ },
+ {
+   "Type": ".ppo",
+   "Language": "CA Clipper preprocessor output"
+ },
+ {
+   "Type": ".app",
+   "Language": "CA Visual Objects platform for developer (CAVO) project file"
+ },
+ {
+   "Type": ".clp",
+   "Language": "CA-Clipper compiler script"
+ },
+ {
+   "Type": ".adt",
+   "Language": "Caesar/Aldebaran Development Package compiler file"
+ },
+ {
+   "Type": ".ctp",
+   "Language": "CakePHP template file"
+ },
+ {
+   "Type": ".cal",
+   "Language": "Cakewalk application language script file"
+ },
+ {
+   "Type": ".ccxml",
+   "Language": "Call Control eXtensible Markup Language file"
+ },
+ {
+   "Type": ".gsc",
+   "Language": "Call of Duty script file"
+ },
+ {
+   "Type": ".ocamlmakefile",
+   "Language": "Caml programming language makefile"
+ },
+ {
+   "Type": ".mli",
+   "Language": "Camomile individual module file"
+ },
+ {
+   "Type": ".cma",
+   "Language": "Camomile library file"
+ },
+ {
+   "Type": ".cva",
+   "Language": "Canvas sequence set"
+ },
+ {
+   "Type": ".csh",
+   "Language": "CARA script interpreter engine script"
+ },
+ {
+   "Type": ".cbs",
+   "Language": "Cardbox macro script file"
+ },
+ {
+   "Type": ".cms",
+   "Language": "CaseMap case script"
+ },
+ {
+   "Type": ".iss",
+   "Language": "Caseware IDEA IDEAScript file"
+ },
+ {
+   "Type": ".csp",
+   "Language": "CaseWare Working Papers script page"
+ },
+ {
+   "Type": ".g1m",
+   "Language": "Casio Model 9860 BASIC program"
+ },
+ {
+   "Type": ".param",
+   "Language": "CASTEP script"
+ },
+ {
+   "Type": ".fp",
+   "Language": "CDE Front Panel file"
+ },
+ {
+   "Type": ".cel",
+   "Language": "Celestia 3D rendering script"
+ },
+ {
+   "Type": ".celx",
+   "Language": "Celestia 3D rendering script file"
+ },
+ {
+   "Type": ".cgvp",
+   "Language": "CG programming language XML data"
+ },
+ {
+   "Type": ".chd",
+   "Language": "Chart FX file"
+ },
+ {
+   "Type": ".cfs",
+   "Language": "ChatFactory script file"
+ },
+ {
+   "Type": ".cml",
+   "Language": "Chemical Markup Language document"
+ },
+ {
+   "Type": ".csml",
+   "Language": "Chemical Style Markup Language file"
+ },
+ {
+   "Type": ".gypi",
+   "Language": "Chrome/Chromium include file"
+ },
+ {
+   "Type": ".fscr",
+   "Language": "ChromeEd forester data script"
+ },
+ {
+   "Type": ".pgm",
+   "Language": "Chromeleon batch program file"
+ },
+ {
+   "Type": ".ck",
+   "Language": "ChucK source code"
+ },
+ {
+   "Type": ".mdf",
+   "Language": "Cisco IOS Embedded Menu Manager menu definition file format"
+ },
+ {
+   "Type": ".dpq",
+   "Language": "Clarion file"
+ },
+ {
+   "Type": ".cla",
+   "Language": "Clarion for DOS source code file"
+ },
+ {
+   "Type": ".ept",
+   "Language": "Clarion for Windows embed points file"
+ },
+ {
+   "Type": ".clw",
+   "Language": "Clarion source code"
+ },
+ {
+   "Type": ".rssc",
+   "Language": "Claris Resolve script file"
+ },
+ {
+   "Type": ".icl",
+   "Language": "Clean source code file"
+ },
+ {
+   "Type": ".cs",
+   "Language": "CLEO 3 custom script file"
+ },
+ {
+   "Type": ".cfi",
+   "Language": "CleverForm script file"
+ },
+ {
+   "Type": ".mfa",
+   "Language": "ClickTeam source data"
+ },
+ {
+   "Type": ".ch",
+   "Language": "Clipper include file"
+ },
+ {
+   "Type": ".clojure",
+   "Language": "Clojure source code"
+ },
+ {
+   "Type": ".clj",
+   "Language": "Clojure source code file"
+ },
+ {
+   "Type": ".cljs",
+   "Language": "ClojureScript script"
+ },
+ {
+   "Type": ".cphd",
+   "Language": "CloudChan pre-processed hypertext document"
+ },
+ {
+   "Type": ".clu",
+   "Language": "CLUCalc CLUScript file"
+ },
+ {
+   "Type": ".cmake",
+   "Language": "CMake module or script"
+ },
+ {
+   "Type": ".hom",
+   "Language": "CNC10 CNC programming data"
+ },
+ {
+   "Type": ".cpy",
+   "Language": "Cobol include file"
+ },
+ {
+   "Type": ".cbl",
+   "Language": "Cobol language source code"
+ },
+ {
+   "Type": ".cob",
+   "Language": "COBOL programming language source"
+ },
+ {
+   "Type": ".adt",
+   "Language": "COBOL project file"
+ },
+ {
+   "Type": ".clips",
+   "Language": "Coda for Mac clips file"
+ },
+ {
+   "Type": ".seestyle",
+   "Language": "Coda for Mac style sheet file"
+ },
+ {
+   "Type": ".codasite",
+   "Language": "Coda for Mac web project file"
+ },
+ {
+   "Type": ".cap",
+   "Language": "Code Architect project file"
+ },
+ {
+   "Type": ".cbp",
+   "Language": "Code::Blocks project"
+ },
+ {
+   "Type": ".depend",
+   "Language": "Code::Blocks project support file"
+ },
+ {
+   "Type": ".wxs",
+   "Language": "Code::Blocks XML file"
+ },
+ {
+   "Type": ".ccp",
+   "Language": "CodeCharge Studio page file"
+ },
+ {
+   "Type": ".ccs",
+   "Language": "CodeCharge Studio project file"
+ },
+ {
+   "Type": ".kit",
+   "Language": "CodeKit project"
+ },
+ {
+   "Type": ".cx",
+   "Language": "CodeMapper script"
+ },
+ {
+   "Type": ".mmch",
+   "Language": "CodeWarrior compiled hdr file"
+ },
+ {
+   "Type": ".xmap",
+   "Language": "CodeWarrior linker data"
+ },
+ {
+   "Type": ".mcp",
+   "Language": "CodeWarrior project file"
+ },
+ {
+   "Type": ".cson",
+   "Language": "CoffeeScript object notation"
+ },
+ {
+   "Type": ".coffee",
+   "Language": "CoffeeScript script"
+ },
+ {
+   "Type": ".cola",
+   "Language": "Cola source code file"
+ },
+ {
+   "Type": ".cpb",
+   "Language": "Comicino Studio project"
+ },
+ {
+   "Type": ".scb",
+   "Language": "Command & Conquer World Builder script"
+ },
+ {
+   "Type": ".txml",
+   "Language": "commerce eXtensible Markup Language"
+ },
+ {
+   "Type": ".cgi",
+   "Language": "Common Gateway Interface script"
+ },
+ {
+   "Type": ".hrh",
+   "Language": "Common header for resources and C++"
+ },
+ {
+   "Type": ".cl",
+   "Language": "Common Lisp programming language source code file"
+ },
+ {
+   "Type": ".cxe",
+   "Language": "Common XML Envelope data"
+ },
+ {
+   "Type": ".cbs",
+   "Language": "Comodo Backup script"
+ },
+ {
+   "Type": ".elc",
+   "Language": "Compiled ELISP source code"
+ },
+ {
+   "Type": ".beam",
+   "Language": "Compiled Erlang Code file"
+ },
+ {
+   "Type": ".nbin",
+   "Language": "Compiled NASL script file"
+ },
+ {
+   "Type": ".pyc",
+   "Language": "Compiled Python script source code"
+ },
+ {
+   "Type": ".tlc",
+   "Language": "Compiled Tool Command Language source code"
+ },
+ {
+   "Type": ".w32",
+   "Language": "Compiler makefile"
+ },
+ {
+   "Type": ".graphmlz",
+   "Language": "Compressed GraphML source file"
+ },
+ {
+   "Type": ".c86",
+   "Language": "Computer Innovation C86 C language source code"
+ },
+ {
+   "Type": ".con",
+   "Language": "Concept Application Server source code file"
+ },
+ {
+   "Type": ".cus",
+   "Language": "ConciseURI syntax file"
+ },
+ {
+   "Type": ".cxs",
+   "Language": "ConciseXML format file"
+ },
+ {
+   "Type": ".cap",
+   "Language": "Construct game development file"
+ },
+ {
+   "Type": ".cxl",
+   "Language": "Content Extraction Language script file"
+ },
+ {
+   "Type": ".cb",
+   "Language": "CoolBasic src file"
+ },
+ {
+   "Type": ".ccp",
+   "Language": "CopperCube JavaScript file"
+ },
+ {
+   "Type": ".ccbjs",
+   "Language": "CopperCube JavaScript scene file"
+ },
+ {
+   "Type": ".pspscript",
+   "Language": "Corel Paint Shop Pro script"
+ },
+ {
+   "Type": ".sc",
+   "Language": "Corel Paradox PAL script file"
+ },
+ {
+   "Type": ".sdl",
+   "Language": "Corel Paradox script file"
+ },
+ {
+   "Type": ".csb",
+   "Language": "Corel PHOTO-PAINT script"
+ },
+ {
+   "Type": ".mxe",
+   "Language": "Corel Quattro Pro startup macro file"
+ },
+ {
+   "Type": ".dsq",
+   "Language": "Corel Query Language file"
+ },
+ {
+   "Type": ".csi",
+   "Language": "Corel script file"
+ },
+ {
+   "Type": ".wpk",
+   "Language": "Corel WordPerfect macro"
+ },
+ {
+   "Type": ".mem",
+   "Language": "Corel WordPerfect Macro editor file"
+ },
+ {
+   "Type": ".wpm",
+   "Language": "Corel WordPerfect macro file"
+ },
+ {
+   "Type": ".wcm",
+   "Language": "Corel WordPerfect macro file"
+ },
+ {
+   "Type": ".wmc",
+   "Language": "Corel WordPerfect macro file"
+ },
+ {
+   "Type": ".mrs",
+   "Language": "Corel WordPerfect macro resource data"
+ },
+ {
+   "Type": ".mpm",
+   "Language": "Corel WordPerfect MathPlan Macro file"
+ },
+ {
+   "Type": ".pem",
+   "Language": "Corel WordPerfect program editor macro file"
+ },
+ {
+   "Type": ".csc",
+   "Language": "CorelDRAW Corel SCRIPT script"
+ },
+ {
+   "Type": ".tag",
+   "Language": "COREX data"
+ },
+ {
+   "Type": ".lxk",
+   "Language": "COREX lexicon link-up"
+ },
+ {
+   "Type": ".pri",
+   "Language": "COREX orthographic transcription file"
+ },
+ {
+   "Type": ".skp",
+   "Language": "COREX orthographic transcription with signal linking data"
+ },
+ {
+   "Type": ".prx",
+   "Language": "COREX prosodic annotation file"
+ },
+ {
+   "Type": ".bpt",
+   "Language": "COREX segmentation file"
+ },
+ {
+   "Type": ".tig",
+   "Language": "COREX syntactic annotation"
+ },
+ {
+   "Type": ".cp",
+   "Language": "CPIde source code file"
+ },
+ {
+   "Type": ".cdproj",
+   "Language": "CppDepend project"
+ },
+ {
+   "Type": ".tps",
+   "Language": "Crazy Talk expression script file"
+ },
+ {
+   "Type": ".cr2",
+   "Language": "CRBasic source code"
+ },
+ {
+   "Type": ".ckm",
+   "Language": "Creation Kit macro"
+ },
+ {
+   "Type": ".cba",
+   "Language": "Creative BASIC source code file"
+ },
+ {
+   "Type": ".cos",
+   "Language": "Creatures source code"
+ },
+ {
+   "Type": ".creole",
+   "Language": "Creole source data"
+ },
+ {
+   "Type": ".cr",
+   "Language": "CRiSP source code file"
+ },
+ {
+   "Type": ".csp",
+   "Language": "Crystal Enterprise Crystal Server page"
+ },
+ {
+   "Type": ".csh",
+   "Language": "csh script"
+ },
+ {
+   "Type": ".cuh",
+   "Language": "CUDA header file"
+ },
+ {
+   "Type": ".cuo",
+   "Language": "CUDA object"
+ },
+ {
+   "Type": ".cu",
+   "Language": "CUDA source code"
+ },
+ {
+   "Type": ".mscr",
+   "Language": "CuteFTP script"
+ },
+ {
+   "Type": ".mcr",
+   "Language": "CuteFTP script file"
+ },
+ {
+   "Type": ".cxt",
+   "Language": "CX-Programmer PLC program file"
+ },
+ {
+   "Type": ".cya",
+   "Language": "Cyana macro"
+ },
+ {
+   "Type": ".xn",
+   "Language": "Cygnus ld-scripts"
+ },
+ {
+   "Type": ".xr",
+   "Language": "Cygnus ld-scripts data"
+ },
+ {
+   "Type": ".itcl",
+   "Language": "Cygwin iwidgets script"
+ },
+ {
+   "Type": ".spt",
+   "Language": "Cypress Semiconductor USB console script file"
+ },
+ {
+   "Type": ".d",
+   "Language": "D Programming Language source code"
+ },
+ {
+   "Type": ".di",
+   "Language": "D Programming Language source code"
+ },
+ {
+   "Type": ".dcf",
+   "Language": "D-LIB generic bytecode"
+ },
+ {
+   "Type": ".dro",
+   "Language": "D-Robots robot data"
+ },
+ {
+   "Type": ".d2j",
+   "Language": "d2jsp script file"
+ },
+ {
+   "Type": ".daemonscript",
+   "Language": "Daemon Tools script file"
+ },
+ {
+   "Type": ".dht",
+   "Language": "DanTemplate HTML template"
+ },
+ {
+   "Type": ".dbpro",
+   "Language": "DarkBASIC project file"
+ },
+ {
+   "Type": ".dba",
+   "Language": "DarkBASIC source code"
+ },
+ {
+   "Type": ".dbo",
+   "Language": "DarkBASIC source code file"
+ },
+ {
+   "Type": ".nbk",
+   "Language": "Data Backup script"
+ },
+ {
+   "Type": ".dfb",
+   "Language": "Data Flask formula"
+ },
+ {
+   "Type": ".qry",
+   "Language": "Database query"
+ },
+ {
+   "Type": ".din",
+   "Language": "DataEase installation script"
+ },
+ {
+   "Type": ".bp",
+   "Language": "DataFlex business process object"
+ },
+ {
+   "Type": ".bpo",
+   "Language": "DataFlex business process object"
+ },
+ {
+   "Type": ".srz",
+   "Language": "DataFlex source code"
+ },
+ {
+   "Type": ".dg",
+   "Language": "DataFlex source code for a dialog box"
+ },
+ {
+   "Type": ".src",
+   "Language": "DataFlex/Multi-Edit source file"
+ },
+ {
+   "Type": ".d4",
+   "Language": "Dataphor source file"
+ },
+ {
+   "Type": ".dse",
+   "Language": "DAZ Studio encrypted script file"
+ },
+ {
+   "Type": ".dsa",
+   "Language": "DAZ Studio script file"
+ },
+ {
+   "Type": ".ds",
+   "Language": "DAZ Studio script file"
+ },
+ {
+   "Type": ".npi",
+   "Language": "dBASE Application Generator source data"
+ },
+ {
+   "Type": ".cod",
+   "Language": "dBASE template source"
+ },
+ {
+   "Type": ".dbg",
+   "Language": "Debug data"
+ },
+ {
+   "Type": ".dwarf",
+   "Language": "Deebug with arbitrary record format file"
+ },
+ {
+   "Type": ".~pa",
+   "Language": "Delphi backup"
+ },
+ {
+   "Type": ".dcr",
+   "Language": "Delphi component binary resource file"
+ },
+ {
+   "Type": ".ddp",
+   "Language": "Delphi diagram page from compiler"
+ },
+ {
+   "Type": ".fmx",
+   "Language": "Delphi form"
+ },
+ {
+   "Type": ".~df",
+   "Language": "Delphi form backup"
+ },
+ {
+   "Type": ".dpk",
+   "Language": "Delphi package source"
+ },
+ {
+   "Type": ".idb",
+   "Language": "Delphi Pascal object file"
+ },
+ {
+   "Type": ".dproj",
+   "Language": "Delphi project"
+ },
+ {
+   "Type": ".dpr",
+   "Language": "Delphi project"
+ },
+ {
+   "Type": ".drc",
+   "Language": "Delphi resource string data"
+ },
+ {
+   "Type": ".pas",
+   "Language": "Delphi unit source code"
+ },
+ {
+   "Type": ".derp",
+   "Language": "DERP script file"
+ },
+ {
+   "Type": ".dil",
+   "Language": "DesignComposer input DIL script file"
+ },
+ {
+   "Type": ".devpak",
+   "Language": "Dev-C++ developer package file"
+ },
+ {
+   "Type": ".dev",
+   "Language": "Dev-C++ project file"
+ },
+ {
+   "Type": ".dmb",
+   "Language": "DHTML Menu Builder project file"
+ },
+ {
+   "Type": ".dc",
+   "Language": "Dialect compiled script"
+ },
+ {
+   "Type": ".d",
+   "Language": "Dialect source code file"
+ },
+ {
+   "Type": ".dif",
+   "Language": "Diff output from Diff command script for Patch command file"
+ },
+ {
+   "Type": ".diff",
+   "Language": "Diff source data"
+ },
+ {
+   "Type": ".dgscript",
+   "Language": "DigiGuide script"
+ },
+ {
+   "Type": ".dml",
+   "Language": "Digital Moderation meeting script file"
+ },
+ {
+   "Type": ".s",
+   "Language": "DigitalMicrograph script"
+ },
+ {
+   "Type": ".qpr",
+   "Language": "Dinkum embedded C++ abridged library"
+ },
+ {
+   "Type": ".dcf",
+   "Language": "Directory Opus command file"
+ },
+ {
+   "Type": ".dto",
+   "Language": "Directory Toolkit output file"
+ },
+ {
+   "Type": ".dts",
+   "Language": "Directory toolkit script file"
+ },
+ {
+   "Type": ".djg",
+   "Language": "DJGPP Compiler makefile"
+ },
+ {
+   "Type": ".ds",
+   "Language": "DMDScript file"
+ },
+ {
+   "Type": ".dia",
+   "Language": "Do It Again macro script file"
+ },
+ {
+   "Type": ".dsd",
+   "Language": "Document Structure Definition file"
+ },
+ {
+   "Type": ".dtd",
+   "Language": "Document Type Definition format"
+ },
+ {
+   "Type": ".dtx",
+   "Language": "Documented LaTeX source"
+ },
+ {
+   "Type": ".sqldataprovider",
+   "Language": "DotNetNuke script file"
+ },
+ {
+   "Type": ".dbheader",
+   "Language": "Download Boost header file"
+ },
+ {
+   "Type": ".mmh",
+   "Language": "Dragon Age Model Mesh Heirarchy file"
+ },
+ {
+   "Type": ".ds",
+   "Language": "DragonSpeak source file"
+ },
+ {
+   "Type": ".actx",
+   "Language": "DS Game Maker action description file"
+ },
+ {
+   "Type": ".act",
+   "Language": "DS Game Maker action file"
+ },
+ {
+   "Type": ".dsl",
+   "Language": "DSSSL style sheet"
+ },
+ {
+   "Type": ".dhtml",
+   "Language": "Dynamic HTML document"
+ },
+ {
+   "Type": ".dml",
+   "Language": "DynaScript markup language file"
+ },
+ {
+   "Type": ".ebs2",
+   "Language": "E-Prime E-Run script file"
+ },
+ {
+   "Type": ".ebs",
+   "Language": "E-Prime E-Run version 1 script file"
+ },
+ {
+   "Type": ".ulp",
+   "Language": "EAGLE script"
+ },
+ {
+   "Type": ".mtp",
+   "Language": "EasyBuilder 8000 project file"
+ },
+ {
+   "Type": ".api_filters",
+   "Language": "Eclipse API settings file"
+ },
+ {
+   "Type": ".dadx",
+   "Language": "Eclipse Document Access Definition Extension file"
+ },
+ {
+   "Type": ".factorypath",
+   "Language": "Eclipse factorypath data"
+ },
+ {
+   "Type": ".genmodel",
+   "Language": "Eclipse IDE domain gen model file"
+ },
+ {
+   "Type": ".exsd",
+   "Language": "Eclipse IDE extension point schema"
+ },
+ {
+   "Type": ".applet",
+   "Language": "Eclipse IDE for Java Developers file"
+ },
+ {
+   "Type": ".classpath",
+   "Language": "Eclipse IDE JAVA project related data"
+ },
+ {
+   "Type": ".history",
+   "Language": "Eclipse IDE local history data"
+ },
+ {
+   "Type": ".propertiesjet",
+   "Language": "Eclipse IDE template file"
+ },
+ {
+   "Type": ".jetinc",
+   "Language": "Eclipse IDE template fragment file"
+ },
+ {
+   "Type": ".textile",
+   "Language": "Eclipse IDE WikiText document"
+ },
+ {
+   "Type": ".tracwiki",
+   "Language": "Eclipse IDE WikiText file"
+ },
+ {
+   "Type": ".jardesc",
+   "Language": "Eclipse JAR settings"
+ },
+ {
+   "Type": ".jpage",
+   "Language": "Eclipse Java scrapbook page file"
+ },
+ {
+   "Type": ".jsdtscope",
+   "Language": "Eclipse JavaScript development data"
+ },
+ {
+   "Type": ".javajet",
+   "Language": "Eclipse JET Java template file"
+ },
+ {
+   "Type": ".sqljet",
+   "Language": "Eclipse JET SQL template file"
+ },
+ {
+   "Type": ".xmljet",
+   "Language": "Eclipse JET XML template file"
+ },
+ {
+   "Type": ".confluence",
+   "Language": "Eclipse Mylyn WikiText confluence file"
+ },
+ {
+   "Type": ".buildpath",
+   "Language": "Eclipse XML build path file"
+ },
+ {
+   "Type": ".js",
+   "Language": "ECMAScript language file"
+ },
+ {
+   "Type": ".es",
+   "Language": "ECMAScript language file"
+ },
+ {
+   "Type": ".zsc",
+   "Language": "EditPad zMUD script"
+ },
+ {
+   "Type": ".edml",
+   "Language": "EDML Parser-Library file"
+ },
+ {
+   "Type": ".efss",
+   "Language": "Effective File Search script"
+ },
+ {
+   "Type": ".e",
+   "Language": "EiffelStudio source file"
+ },
+ {
+   "Type": ".eaf",
+   "Language": "ELAN Annotation Format"
+ },
+ {
+   "Type": ".el",
+   "Language": "Emacs Lisp programming language source code"
+ },
+ {
+   "Type": ".ejs",
+   "Language": "Embedded JavaScript template"
+ },
+ {
+   "Type": ".eql",
+   "Language": "Embedded SQL file"
+ },
+ {
+   "Type": ".exe_",
+   "Language": "emu8086 assembly source code"
+ },
+ {
+   "Type": ".bin_",
+   "Language": "emu8086 assembly source code"
+ },
+ {
+   "Type": ".com_",
+   "Language": "emu8086 assembly source code"
+ },
+ {
+   "Type": ".epl",
+   "Language": "Encirq \\PL programming language source file"
+ },
+ {
+   "Type": ".ephtml",
+   "Language": "Enhanced Perl-parsed HTML file"
+ },
+ {
+   "Type": ".fmt",
+   "Language": "ENVI tape script file"
+ },
+ {
+   "Type": ".ema",
+   "Language": "EPLAN macro"
+ },
+ {
+   "Type": ".e",
+   "Language": "Epsilon Editor EEL macro language"
+ },
+ {
+   "Type": ".xpgt",
+   "Language": "EPUB XML stylesheet page template"
+ },
+ {
+   "Type": ".emakefile",
+   "Language": "Erlang make file"
+ },
+ {
+   "Type": ".emakerfile",
+   "Language": "Erlang make file"
+ },
+ {
+   "Type": ".hrl",
+   "Language": "Erlang source or script file"
+ },
+ {
+   "Type": ".erl",
+   "Language": "Erlang source or script file"
+ },
+ {
+   "Type": ".erb",
+   "Language": "Erubis script file"
+ },
+ {
+   "Type": ".erubis",
+   "Language": "Erubis script file"
+ },
+ {
+   "Type": ".eze",
+   "Language": "ErZorScript source file"
+ },
+ {
+   "Type": ".spt",
+   "Language": "ESPL programming code"
+ },
+ {
+   "Type": ".ssc",
+   "Language": "Esterel sorted circuit code"
+ },
+ {
+   "Type": ".ew",
+   "Language": "Euphoria code file"
+ },
+ {
+   "Type": ".exu",
+   "Language": "Euphoria for Linux source code file"
+ },
+ {
+   "Type": ".e",
+   "Language": "Euphoria include file"
+ },
+ {
+   "Type": ".il",
+   "Language": "Euphoria shrouded source code"
+ },
+ {
+   "Type": ".ex",
+   "Language": "Euphoria source code"
+ },
+ {
+   "Type": ".exw",
+   "Language": "Euphoria Windows source code file"
+ },
+ {
+   "Type": ".pr7",
+   "Language": "EuroSYSTEMS macro"
+ },
+ {
+   "Type": ".ebs",
+   "Language": "Eventcorder script file"
+ },
+ {
+   "Type": ".enml",
+   "Language": "Evernote for Google Android note file"
+ },
+ {
+   "Type": ".ekm",
+   "Language": "EXP macro file"
+ },
+ {
+   "Type": ".egg",
+   "Language": "Explosion Graphics Generator script file"
+ },
+ {
+   "Type": ".xaml",
+   "Language": "Extensible Application Markup Language format"
+ },
+ {
+   "Type": ".xhtm",
+   "Language": "Extensible HTML file"
+ },
+ {
+   "Type": ".xnf",
+   "Language": "Extensible numerical data"
+ },
+ {
+   "Type": ".xv2",
+   "Language": "Extensible Virtual World Description Language Document"
+ },
+ {
+   "Type": ".xct",
+   "Language": "ExtremeCopy task file"
+ },
+ {
+   "Type": ".ebs",
+   "Language": "EyeBatch command script file"
+ },
+ {
+   "Type": ".ezg",
+   "Language": "EZGraphs source code"
+ },
+ {
+   "Type": ".mli",
+   "Language": "F# source code"
+ },
+ {
+   "Type": ".fxl",
+   "Language": "FaceFX batch file"
+ },
+ {
+   "Type": ".ftr",
+   "Language": "Falcon programming language translation data"
+ },
+ {
+   "Type": ".fcg",
+   "Language": "FastCGI script file"
+ },
+ {
+   "Type": ".fcgi",
+   "Language": "FastCGI script file"
+ },
+ {
+   "Type": ".fgl",
+   "Language": "Fifth Generation Language (5GL) source code file"
+ },
+ {
+   "Type": ".ap",
+   "Language": "Fifth Generation Systems active page file"
+ },
+ {
+   "Type": ".xmss",
+   "Language": "FileMaker script"
+ },
+ {
+   "Type": ".xmsc",
+   "Language": "FileMaker script"
+ },
+ {
+   "Type": ".fzs",
+   "Language": "FilZip backup script file"
+ },
+ {
+   "Type": ".fdt",
+   "Language": "Final Draft script attributes"
+ },
+ {
+   "Type": ".fbz6",
+   "Language": "FinalBuilder compressed project file"
+ },
+ {
+   "Type": ".fbp6",
+   "Language": "FinalBuilder XML project file"
+ },
+ {
+   "Type": ".xul",
+   "Language": "Firefox XML User Interface Language"
+ },
+ {
+   "Type": ".fsproj",
+   "Language": "FireStarter Project File"
+ },
+ {
+   "Type": ".jsfl",
+   "Language": "Flash JavaScript data"
+ },
+ {
+   "Type": ".frs",
+   "Language": "Flash Renamer script file"
+ },
+ {
+   "Type": ".hxproj",
+   "Language": "FlashDevelop Flash project file"
+ },
+ {
+   "Type": ".fdm",
+   "Language": "FlashDevelop macro"
+ },
+ {
+   "Type": ".flm",
+   "Language": "Flasm disassembled Flash ActionScript bytecode file"
+ },
+ {
+   "Type": ".mdf",
+   "Language": "Fldigi macro"
+ },
+ {
+   "Type": ".for",
+   "Language": "Font resource file"
+ },
+ {
+   "Type": ".fsb",
+   "Language": "form-Z compiled script"
+ },
+ {
+   "Type": ".fsl",
+   "Language": "form-Z script"
+ },
+ {
+   "Type": ".pfa",
+   "Language": "Formdef or Pagedef source code"
+ },
+ {
+   "Type": ".fdml",
+   "Language": "Forms Definition Markup Language file"
+ },
+ {
+   "Type": ".sxt",
+   "Language": "Formula Graphics script file"
+ },
+ {
+   "Type": ".4th",
+   "Language": "Forth source code file"
+ },
+ {
+   "Type": ".forth",
+   "Language": "Forth source code file"
+ },
+ {
+   "Type": ".f77",
+   "Language": "Fortran 77 language source file"
+ },
+ {
+   "Type": ".f95",
+   "Language": "Fortran 95 language source code file"
+ },
+ {
+   "Type": ".qf",
+   "Language": "FORTRAN embedded QUEL file"
+ },
+ {
+   "Type": ".ftn",
+   "Language": "Fortran language source code file"
+ },
+ {
+   "Type": ".mod",
+   "Language": "Fortran module file"
+ },
+ {
+   "Type": ".cod",
+   "Language": "FORTRAN program compiled code file"
+ },
+ {
+   "Type": ".f",
+   "Language": "Fortran source code"
+ },
+ {
+   "Type": ".for",
+   "Language": "Fortran source code"
+ },
+ {
+   "Type": ".f03",
+   "Language": "Fortran source code"
+ },
+ {
+   "Type": ".fpp",
+   "Language": "Fortran source code file"
+ },
+ {
+   "Type": ".fountain",
+   "Language": "Fountain syntax file"
+ },
+ {
+   "Type": ".fwx",
+   "Language": "FoxWeb script"
+ },
+ {
+   "Type": ".fpi",
+   "Language": "FPS Creator intelligence script"
+ },
+ {
+   "Type": ".sw",
+   "Language": "Free Pascal assembler file"
+ },
+ {
+   "Type": ".pp1",
+   "Language": "Free Pascal compiled unit file"
+ },
+ {
+   "Type": ".ow",
+   "Language": "Free Pascal for Windows object file"
+ },
+ {
+   "Type": ".pp",
+   "Language": "Free Pascal source code"
+ },
+ {
+   "Type": ".fcmacro",
+   "Language": "FreeCAD macro"
+ },
+ {
+   "Type": ".frj",
+   "Language": "FreeForm-J project file"
+ },
+ {
+   "Type": ".fpc",
+   "Language": "FreePascal Compiler makefile"
+ },
+ {
+   "Type": ".fwactionb",
+   "Language": "Freeway Pro action bundle"
+ },
+ {
+   "Type": ".fwaction",
+   "Language": "Freeway Pro action data"
+ },
+ {
+   "Type": ".fuc",
+   "Language": "Frequently Used Commands script"
+ },
+ {
+   "Type": ".2clk",
+   "Language": "Frontier Script File"
+ },
+ {
+   "Type": ".fsf",
+   "Language": "FSL feat setup script"
+ },
+ {
+   "Type": ".rb",
+   "Language": "Fuzzy rule based definition file"
+ },
+ {
+   "Type": ".gcode",
+   "Language": "G-code source code"
+ },
+ {
+   "Type": ".gadgeprj",
+   "Language": "Gadge It project file"
+ },
+ {
+   "Type": ".gsb",
+   "Language": "Gain script binary file"
+ },
+ {
+   "Type": ".gst",
+   "Language": "GAIN script text"
+ },
+ {
+   "Type": ".class",
+   "Language": "Gambas class source file"
+ },
+ {
+   "Type": ".gml",
+   "Language": "Game Maker script file"
+ },
+ {
+   "Type": ".tik",
+   "Language": "Game texture script"
+ },
+ {
+   "Type": ".yyp",
+   "Language": "GameMaker Studio project"
+ },
+ {
+   "Type": ".autosave",
+   "Language": "GDevelop autosave"
+ },
+ {
+   "Type": ".gdg",
+   "Language": "GDevelop project"
+ },
+ {
+   "Type": ".geany",
+   "Language": "Geany project"
+ },
+ {
+   "Type": ".gek",
+   "Language": "GECK Papyrus Script Editor script"
+ },
+ {
+   "Type": ".src",
+   "Language": "Generally source code"
+ },
+ {
+   "Type": ".hdl",
+   "Language": "Generated C header file"
+ },
+ {
+   "Type": ".gsk",
+   "Language": "Geocaching Swiss Army Knife macro file"
+ },
+ {
+   "Type": ".geojson",
+   "Language": "GeoJSON geographic format"
+ },
+ {
+   "Type": ".gss",
+   "Language": "Geometer's Sketchpad script file"
+ },
+ {
+   "Type": ".goc",
+   "Language": "GEOS GOC source code file"
+ },
+ {
+   "Type": ".gs",
+   "Language": "Geosoft montaj script file"
+ },
+ {
+   "Type": ".gobj",
+   "Language": "Geoworks object code file"
+ },
+ {
+   "Type": ".uih",
+   "Language": "Geoworks UI Compiler espire header file"
+ },
+ {
+   "Type": ".gfa",
+   "Language": "GFA-BASIC tokenized source"
+ },
+ {
+   "Type": ".scm",
+   "Language": "GIMP script file"
+ },
+ {
+   "Type": ".git",
+   "Language": "Git repository file"
+ },
+ {
+   "Type": ".ghp",
+   "Language": "GitHub Enterprise software package"
+ },
+ {
+   "Type": ".glade",
+   "Language": "Glade project"
+ },
+ {
+   "Type": ".gbap",
+   "Language": "GLBasic project file"
+ },
+ {
+   "Type": ".ac",
+   "Language": "GLPK automake/autoconf configure definitions file"
+ },
+ {
+   "Type": ".gls",
+   "Language": "GLScript file"
+ },
+ {
+   "Type": ".xme",
+   "Language": "GME data"
+ },
+ {
+   "Type": ".abs",
+   "Language": "GNU C Compiler ELF/DWARF format absolute data"
+ },
+ {
+   "Type": ".gcl",
+   "Language": "GNU Common Lisp data"
+ },
+ {
+   "Type": ".gnumakefile",
+   "Language": "GNU Make makefile"
+ },
+ {
+   "Type": ".cplist",
+   "Language": "GNU makefile"
+ },
+ {
+   "Type": ".gp",
+   "Language": "Gofer project source"
+ },
+ {
+   "Type": ".gc3",
+   "Language": "Golden Common Lisp source code file"
+ },
+ {
+   "Type": ".aidl",
+   "Language": "Google Android AIDL interface definition language data"
+ },
+ {
+   "Type": ".aar",
+   "Language": "Google Android library project file"
+ },
+ {
+   "Type": ".smali",
+   "Language": "Google Android Smali Assembly Language developer data"
+ },
+ {
+   "Type": ".gs",
+   "Language": "Google Apps Script script"
+ },
+ {
+   "Type": ".gyp",
+   "Language": "Google Chromium GYP input configuration"
+ },
+ {
+   "Type": ".go",
+   "Language": "Google Go programming language source code"
+ },
+ {
+   "Type": ".proto",
+   "Language": "Google Protocol Buffers buffer file"
+ },
+ {
+   "Type": ".mml",
+   "Language": "Gordano Mail Meta Language file"
+ },
+ {
+   "Type": ".gs",
+   "Language": "Gosu class file"
+ },
+ {
+   "Type": ".frt",
+   "Language": "GP-Forth language source code"
+ },
+ {
+   "Type": ".grxml",
+   "Language": "Grammar file"
+ },
+ {
+   "Type": ".gfe",
+   "Language": "Grammatical Framework data"
+ },
+ {
+   "Type": ".gxl",
+   "Language": "Graph Exchange Language data"
+ },
+ {
+   "Type": ".graphml",
+   "Language": "Graph Markup Language source code"
+ },
+ {
+   "Type": ".gml",
+   "Language": "Graph Modeling Language file"
+ },
+ {
+   "Type": ".gml",
+   "Language": "Graphlet Graphscript data file"
+ },
+ {
+   "Type": ".gv",
+   "Language": "Graphviz DOT language data"
+ },
+ {
+   "Type": ".dot",
+   "Language": "Graphviz DOT language file"
+ },
+ {
+   "Type": ".greenfoot",
+   "Language": "Greenfoot project file"
+ },
+ {
+   "Type": ".inp",
+   "Language": "gretl script"
+ },
+ {
+   "Type": ".mm",
+   "Language": "Groff MM format source file"
+ },
+ {
+   "Type": ".groovy",
+   "Language": "Groovy programming language script"
+ },
+ {
+   "Type": ".gvy",
+   "Language": "Groovy script file"
+ },
+ {
+   "Type": ".fus",
+   "Language": "GURU uninstall script"
+ },
+ {
+   "Type": ".hal",
+   "Language": "HansaWorld Enterprise HAL code file"
+ },
+ {
+   "Type": ".gs",
+   "Language": "Haskell Gofer script file"
+ },
+ {
+   "Type": ".has",
+   "Language": "Haskell script file"
+ },
+ {
+   "Type": ".hxml",
+   "Language": "haXe make file"
+ },
+ {
+   "Type": ".hxp",
+   "Language": "haXe project"
+ },
+ {
+   "Type": ".hx",
+   "Language": "Haxe source code file"
+ },
+ {
+   "Type": ".hay",
+   "Language": "Haydee web server module file"
+ },
+ {
+   "Type": ".hc",
+   "Language": "Header file"
+ },
+ {
+   "Type": ".hei",
+   "Language": "Heitml source code"
+ },
+ {
+   "Type": ".hsc",
+   "Language": "HelpScribble project source file"
+ },
+ {
+   "Type": ".hbm",
+   "Language": "Hibernate script file"
+ },
+ {
+   "Type": ".hic",
+   "Language": "HicEst script"
+ },
+ {
+   "Type": ".hdf",
+   "Language": "Hierarchical Data Format"
+ },
+ {
+   "Type": ".hsdl",
+   "Language": "Hierarchical Scan Description Language"
+ },
+ {
+   "Type": ".hla",
+   "Language": "High Level Assembler source file"
+ },
+ {
+   "Type": ".hlsl",
+   "Language": "High Level Shader Language source code file"
+ },
+ {
+   "Type": ".hpf",
+   "Language": "High Performance FORTRAN data"
+ },
+ {
+   "Type": ".h6h",
+   "Language": "HLC script file"
+ },
+ {
+   "Type": ".hoic",
+   "Language": "HOIC DDoS script"
+ },
+ {
+   "Type": ".hms",
+   "Language": "HostMonitor script"
+ },
+ {
+   "Type": ".kml",
+   "Language": "HP 48 emulator Win48 script"
+ },
+ {
+   "Type": ".ssc",
+   "Language": "HP Library and Tape Tools script"
+ },
+ {
+   "Type": ".lex",
+   "Language": "HP-Basic language extension"
+ },
+ {
+   "Type": ".haml",
+   "Language": "HTML abstraction markup language file"
+ },
+ {
+   "Type": ".htc",
+   "Language": "HTML component"
+ },
+ {
+   "Type": ".ahtml",
+   "Language": "HTML document"
+ },
+ {
+   "Type": ".ht4",
+   "Language": "HTML file Version 4 file"
+ },
+ {
+   "Type": ".hcw",
+   "Language": "HTML Help Workshop Conversion Wizard macro"
+ },
+ {
+   "Type": ".htm",
+   "Language": "HTML Hypertext Markup Language web page"
+ },
+ {
+   "Type": ".php4",
+   "Language": "HTML page with PHP (HyperText PreProcessor)"
+ },
+ {
+   "Type": ".inc",
+   "Language": "HTML server side include"
+ },
+ {
+   "Type": ".stm",
+   "Language": "HTML server side include data"
+ },
+ {
+   "Type": ".ssi",
+   "Language": "HTML with server side includes"
+ },
+ {
+   "Type": ".appcache",
+   "Language": "HTML5 cache manifest file"
+ },
+ {
+   "Type": ".html5",
+   "Language": "HTML5 Hypertext Markup Language revision 5 source"
+ },
+ {
+   "Type": ".iadaction",
+   "Language": "iAd Producer action template"
+ },
+ {
+   "Type": ".iadclass",
+   "Language": "iAd Producer class description"
+ },
+ {
+   "Type": ".iadpage",
+   "Language": "iAd Producer page template"
+ },
+ {
+   "Type": ".iadproj",
+   "Language": "iAd Producer project"
+ },
+ {
+   "Type": ".iadstyle",
+   "Language": "iAd Producer style template"
+ },
+ {
+   "Type": ".s43",
+   "Language": "IAR assembly source"
+ },
+ {
+   "Type": ".4ge",
+   "Language": "IBM Informix 4GL compiled source code"
+ },
+ {
+   "Type": ".jcl",
+   "Language": "IBM Job Control Language file format"
+ },
+ {
+   "Type": ".ebs",
+   "Language": "IBM Rational Rose script source file"
+ },
+ {
+   "Type": ".rbx",
+   "Language": "IBM Rembo-C compiled script"
+ },
+ {
+   "Type": ".rbc",
+   "Language": "IBM Rembo-C script file"
+ },
+ {
+   "Type": ".sbh",
+   "Language": "IBM SQABasic header file"
+ },
+ {
+   "Type": ".spr",
+   "Language": "IBM Telelogic Tau SDL Suite design"
+ },
+ {
+   "Type": ".11",
+   "Language": "IBM Voice Type languages scripts data"
+ },
+ {
+   "Type": ".19",
+   "Language": "IBM Voice Type languages scripts data file"
+ },
+ {
+   "Type": ".wsil",
+   "Language": "IBM Web Services Inspection Language data"
+ },
+ {
+   "Type": ".jacl",
+   "Language": "IBM WebSphere server script"
+ },
+ {
+   "Type": ".wis",
+   "Language": "IBM wIntegrate basic script file"
+ },
+ {
+   "Type": ".rpo",
+   "Language": "IBM XL C/C++ for Linux compiler data"
+ },
+ {
+   "Type": ".ice",
+   "Language": "IceChat IRC client script"
+ },
+ {
+   "Type": ".icn",
+   "Language": "Icon language source code file"
+ },
+ {
+   "Type": ".pro",
+   "Language": "IDL programming language source code file"
+ },
+ {
+   "Type": ".idle",
+   "Language": "IDle script file"
+ },
+ {
+   "Type": ".iap",
+   "Language": "Iguana Active Server active page script file"
+ },
+ {
+   "Type": ".msl",
+   "Language": "ImageMagick scripting language file"
+ },
+ {
+   "Type": ".inc",
+   "Language": "Include file"
+ },
+ {
+   "Type": ".anm",
+   "Language": "Infinity equation script file"
+ },
+ {
+   "Type": ".4gl",
+   "Language": "Informix 4GL language source code"
+ },
+ {
+   "Type": ".sc",
+   "Language": "Ingres Embedded SQL/C source file"
+ },
+ {
+   "Type": ".ipp",
+   "Language": "Inline guard macro file"
+ },
+ {
+   "Type": ".ddb",
+   "Language": "INMOS Transputer Development System OCCAM debugging info"
+ },
+ {
+   "Type": ".cpr",
+   "Language": "INMOS transputer development system occam program code"
+ },
+ {
+   "Type": ".ino",
+   "Language": "Inno Setup script"
+ },
+ {
+   "Type": ".iss",
+   "Language": "Inno Setup script file"
+ },
+ {
+   "Type": ".txx",
+   "Language": "Insight Segmentation and Registration Toolkit data"
+ },
+ {
+   "Type": ".ins",
+   "Language": "InstallShield script"
+ },
+ {
+   "Type": ".rgs",
+   "Language": "InstallShield script for Windows Registry"
+ },
+ {
+   "Type": ".isu",
+   "Language": "InstallShield uninstall script"
+ },
+ {
+   "Type": ".ifos",
+   "Language": "Instant File Opener script"
+ },
+ {
+   "Type": ".ix3",
+   "Language": "Instant.Exe 3.0 script file"
+ },
+ {
+   "Type": ".obj",
+   "Language": "Intel (Object Module Format) relocatable object module"
+ },
+ {
+   "Type": ".f90",
+   "Language": "Intel Fortran 90 language source"
+ },
+ {
+   "Type": ".vbi",
+   "Language": "IntelliCAD VBA script file"
+ },
+ {
+   "Type": ".iml",
+   "Language": "IntelliJ IDEA module file"
+ },
+ {
+   "Type": ".ipr",
+   "Language": "IntelliJ project XML data"
+ },
+ {
+   "Type": ".irb",
+   "Language": "Interactive Ruby script"
+ },
+ {
+   "Type": ".sdi",
+   "Language": "Interface definition file"
+ },
+ {
+   "Type": ".lo",
+   "Language": "Interleaf compiled Lisp file"
+ },
+ {
+   "Type": ".csp",
+   "Language": "Intersystems Caché server page"
+ },
+ {
+   "Type": ".io",
+   "Language": "Io language script"
+ },
+ {
+   "Type": ".ik",
+   "Language": "Ioke script"
+ },
+ {
+   "Type": ".ipb",
+   "Language": "iPhone Perl script"
+ },
+ {
+   "Type": ".ips",
+   "Language": "IPIX IPScript data"
+ },
+ {
+   "Type": ".ipy",
+   "Language": "IPython script"
+ },
+ {
+   "Type": ".iwb",
+   "Language": "IWBasic source code"
+ },
+ {
+   "Type": ".ijs",
+   "Language": "J Interpretor script"
+ },
+ {
+   "Type": ".jbp",
+   "Language": "Jabaco project"
+ },
+ {
+   "Type": ".js",
+   "Language": "JACOsub script file"
+ },
+ {
+   "Type": ".jade",
+   "Language": "Jade programming language source code"
+ },
+ {
+   "Type": ".rapc",
+   "Language": "Java 2 ME unit data"
+ },
+ {
+   "Type": ".j3d",
+   "Language": "Java 3D object file"
+ },
+ {
+   "Type": ".jad",
+   "Language": "Java application descriptor"
+ },
+ {
+   "Type": ".bufferedimage",
+   "Language": "Java class"
+ },
+ {
+   "Type": ".cla",
+   "Language": "Java class data"
+ },
+ {
+   "Type": ".cls",
+   "Language": "Java class definition"
+ },
+ {
+   "Type": ".jcm",
+   "Language": "Java commerce message"
+ },
+ {
+   "Type": ".jcs",
+   "Language": "Java control source data"
+ },
+ {
+   "Type": ".form",
+   "Language": "Java form"
+ },
+ {
+   "Type": ".jks",
+   "Language": "Java KeyStore data"
+ },
+ {
+   "Type": ".java",
+   "Language": "Java language source code"
+ },
+ {
+   "Type": ".jav",
+   "Language": "Java language source code"
+ },
+ {
+   "Type": ".mf",
+   "Language": "Java manifest file"
+ },
+ {
+   "Type": ".mash",
+   "Language": "Java mash data"
+ },
+ {
+   "Type": ".jml",
+   "Language": "Java Modeling Language specification data"
+ },
+ {
+   "Type": ".jpd",
+   "Language": "Java process definition file"
+ },
+ {
+   "Type": ".ser",
+   "Language": "Java serialized object"
+ },
+ {
+   "Type": ".jsp",
+   "Language": "JAVA Server page"
+ },
+ {
+   "Type": ".do",
+   "Language": "Java Servlet"
+ },
+ {
+   "Type": ".j",
+   "Language": "Java source code"
+ },
+ {
+   "Type": ".umlclass",
+   "Language": "Java UML class model file"
+ },
+ {
+   "Type": ".cls",
+   "Language": "JavaScript class definition"
+ },
+ {
+   "Type": ".jsc",
+   "Language": "JavaScript configuration"
+ },
+ {
+   "Type": ".hbs",
+   "Language": "JavaScript Handlebars.js template"
+ },
+ {
+   "Type": ".json",
+   "Language": "JavaScript object notation data interchange format"
+ },
+ {
+   "Type": ".js",
+   "Language": "JavaScript source code script"
+ },
+ {
+   "Type": ".faces",
+   "Language": "JavaServer Faces FacesServlet page"
+ },
+ {
+   "Type": ".jsb",
+   "Language": "JAWS script binary file"
+ },
+ {
+   "Type": ".jsh",
+   "Language": "JAWS script header data"
+ },
+ {
+   "Type": ".jsm",
+   "Language": "JAWS script message file"
+ },
+ {
+   "Type": ".jss",
+   "Language": "JAWS script source"
+ },
+ {
+   "Type": ".xbd",
+   "Language": "JAXB schema file"
+ },
+ {
+   "Type": ".jcw",
+   "Language": "JCreator workspace file"
+ },
+ {
+   "Type": ".jex",
+   "Language": "JExpress project"
+ },
+ {
+   "Type": ".jgc",
+   "Language": "JGCGen script"
+ },
+ {
+   "Type": ".irc",
+   "Language": "jIRCii script"
+ },
+ {
+   "Type": ".ji",
+   "Language": "Join-Calculus interface source code"
+ },
+ {
+   "Type": ".rub",
+   "Language": "JQuery rules file"
+ },
+ {
+   "Type": ".jsa",
+   "Language": "JRun server application"
+ },
+ {
+   "Type": ".jse",
+   "Language": "JScript encoded script"
+ },
+ {
+   "Type": ".jsonp",
+   "Language": "JSON-with-padding source code"
+ },
+ {
+   "Type": ".jtb",
+   "Language": "JTB JavaCC grammar data"
+ },
+ {
+   "Type": ".ju",
+   "Language": "JU source code"
+ },
+ {
+   "Type": ".judo",
+   "Language": "JudoScript source code"
+ },
+ {
+   "Type": ".jug",
+   "Language": "Jug code"
+ },
+ {
+   "Type": ".jl",
+   "Language": "Julia source code"
+ },
+ {
+   "Type": ".jmk",
+   "Language": "JX makefile"
+ },
+ {
+   "Type": ".eqn",
+   "Language": "KaleidaGraph macro"
+ },
+ {
+   "Type": ".qsc",
+   "Language": "Kaleidagraph script file"
+ },
+ {
+   "Type": ".pcs",
+   "Language": "KDevelop persistent code store file"
+ },
+ {
+   "Type": ".kdevprj",
+   "Language": "KDevelop project file"
+ },
+ {
+   "Type": ".ked",
+   "Language": "Kedit profile and macro"
+ },
+ {
+   "Type": ".kex",
+   "Language": "KEDIT profile macro"
+ },
+ {
+   "Type": ".ecore",
+   "Language": "Kermeta ecore diagram"
+ },
+ {
+   "Type": ".ecorediag",
+   "Language": "Kermeta ecore diagram information file"
+ },
+ {
+   "Type": ".kmt",
+   "Language": "Kermeta file"
+ },
+ {
+   "Type": ".kmdi",
+   "Language": "Kermeta file"
+ },
+ {
+   "Type": ".kbs",
+   "Language": "Keyboard Script saved keystrokes"
+ },
+ {
+   "Type": ".kt3",
+   "Language": "KeyText macro"
+ },
+ {
+   "Type": ".ks",
+   "Language": "Kickstart script"
+ },
+ {
+   "Type": ".kpl",
+   "Language": "Kids Programming Language source code"
+ },
+ {
+   "Type": ".kv",
+   "Language": "Kivy language file"
+ },
+ {
+   "Type": ".kix",
+   "Language": "KiXtart script"
+ },
+ {
+   "Type": ".kx",
+   "Language": "KiXtart tokenized script"
+ },
+ {
+   "Type": ".kl3",
+   "Language": "KL3 source code file"
+ },
+ {
+   "Type": ".komodo",
+   "Language": "KMD file"
+ },
+ {
+   "Type": ".ifp",
+   "Language": "KnowledgeMan script"
+ },
+ {
+   "Type": ".kd",
+   "Language": "Koara source code"
+ },
+ {
+   "Type": ".kodu",
+   "Language": "Kodu project"
+ },
+ {
+   "Type": ".ash",
+   "Language": "KoLmafia ASH script file"
+ },
+ {
+   "Type": ".ksc",
+   "Language": "Korg Trinity script file"
+ },
+ {
+   "Type": ".kt",
+   "Language": "Kotlin source code"
+ },
+ {
+   "Type": ".kts",
+   "Language": "Kotlin source code"
+ },
+ {
+   "Type": ".kcl",
+   "Language": "Kyoto Common LISP source code"
+ },
+ {
+   "Type": ".mlv",
+   "Language": "LabVIEW Mathscript data"
+ },
+ {
+   "Type": ".lng",
+   "Language": "Lahey Fortran language file"
+ },
+ {
+   "Type": ".lpr",
+   "Language": "LAPRO source code file"
+ },
+ {
+   "Type": ".lds",
+   "Language": "Laser Dispatch script file"
+ },
+ {
+   "Type": ".lasso",
+   "Language": "Lasso database driven web page"
+ },
+ {
+   "Type": ".ins",
+   "Language": "LaTeX installer script"
+ },
+ {
+   "Type": ".lpx",
+   "Language": "LaTeXPiX script"
+ },
+ {
+   "Type": ".lpr",
+   "Language": "Lazarus project file"
+ },
+ {
+   "Type": ".lrs",
+   "Language": "Lazarus Resource file"
+ },
+ {
+   "Type": ".lbj",
+   "Language": "LBJava source code file"
+ },
+ {
+   "Type": ".rpg",
+   "Language": "Lego Mindstorms NXT 5-Steps program"
+ },
+ {
+   "Type": ".rbt",
+   "Language": "Lego MINDSTORMS NXT program"
+ },
+ {
+   "Type": ".ev3p",
+   "Language": "LEGO MINDSTORMS program"
+ },
+ {
+   "Type": ".less",
+   "Language": "LESS style sheet"
+ },
+ {
+   "Type": ".x",
+   "Language": "Lex language source code"
+ },
+ {
+   "Type": ".l",
+   "Language": "Lex language source code"
+ },
+ {
+   "Type": ".ll",
+   "Language": "Lex source code"
+ },
+ {
+   "Type": ".lba",
+   "Language": "Liberty BASIC source code"
+ },
+ {
+   "Type": ".lwa",
+   "Language": "Lightwright automated action file"
+ },
+ {
+   "Type": ".wmw",
+   "Language": "Likno Web Modal Windows Builder data"
+ },
+ {
+   "Type": ".lwmw",
+   "Language": "Likno Web Modal Windows Builder file"
+ },
+ {
+   "Type": ".m",
+   "Language": "Limbo interface declaration file"
+ },
+ {
+   "Type": ".lnk",
+   "Language": "Linker response file"
+ },
+ {
+   "Type": ".ll",
+   "Language": "Links programming language template file"
+ },
+ {
+   "Type": ".lds",
+   "Language": "Linux compile time header data"
+ },
+ {
+   "Type": ".dts",
+   "Language": "Linux Device Tree source"
+ },
+ {
+   "Type": ".lnx",
+   "Language": "Linux specific makefile"
+ },
+ {
+   "Type": ".lxsproj",
+   "Language": "Liquid XML Studio project"
+ },
+ {
+   "Type": ".l",
+   "Language": "Lisp language source"
+ },
+ {
+   "Type": ".lsp",
+   "Language": "LISP source code"
+ },
+ {
+   "Type": ".bil",
+   "Language": "Lisp source file"
+ },
+ {
+   "Type": ".lisp",
+   "Language": "LISP translators file"
+ },
+ {
+   "Type": ".lit",
+   "Language": "Lit source code"
+ },
+ {
+   "Type": ".litcoffee",
+   "Language": "Literate CoffeeScript file"
+ },
+ {
+   "Type": ".lhs",
+   "Language": "Literate Haskell programming language source code file"
+ },
+ {
+   "Type": ".lit",
+   "Language": "Literate Haskell script file"
+ },
+ {
+   "Type": ".hs",
+   "Language": "Literate Haskell source code or script"
+ },
+ {
+   "Type": ".st",
+   "Language": "LittleSmalltalk language source code file"
+ },
+ {
+   "Type": ".loc",
+   "Language": "Localisation string resource header"
+ },
+ {
+   "Type": ".lml",
+   "Language": "LOGML data"
+ },
+ {
+   "Type": ".lgt",
+   "Language": "Logtalk programming language source code file"
+ },
+ {
+   "Type": ".lols",
+   "Language": "LOLCODE source code file"
+ },
+ {
+   "Type": ".lol",
+   "Language": "Lolcode source file"
+ },
+ {
+   "Type": ".asz",
+   "Language": "LoseThos assembly source code"
+ },
+ {
+   "Type": ".as?",
+   "Language": "LoseThos Assembly source file"
+ },
+ {
+   "Type": ".au?",
+   "Language": "LoseThos autofile"
+ },
+ {
+   "Type": ".hp?",
+   "Language": "LoseThos C+ header file"
+ },
+ {
+   "Type": ".cpz",
+   "Language": "LoseThos C+ source file"
+ },
+ {
+   "Type": ".sp?",
+   "Language": "LoseThos C+ source file"
+ },
+ {
+   "Type": ".ap?",
+   "Language": "LoseThos C+ source file"
+ },
+ {
+   "Type": ".cp?",
+   "Language": "LoseThos C+ source file"
+ },
+ {
+   "Type": ".mp?",
+   "Language": "LoseThos Compiler map file"
+ },
+ {
+   "Type": ".plc",
+   "Language": "Lotus add-in functions macros applications"
+ },
+ {
+   "Type": ".dxl",
+   "Language": "Lotus Domino XML data"
+ },
+ {
+   "Type": ".scs",
+   "Language": "Lotus ScreenCam script"
+ },
+ {
+   "Type": ".lss",
+   "Language": "LotusScript source code file"
+ },
+ {
+   "Type": ".lp",
+   "Language": "LP88 linear programming for the IBM-PC file"
+ },
+ {
+   "Type": ".lub",
+   "Language": "Lua bytecode"
+ },
+ {
+   "Type": ".luac",
+   "Language": "Lua compiled source code"
+ },
+ {
+   "Type": ".lua",
+   "Language": "Lua script"
+ },
+ {
+   "Type": ".luca",
+   "Language": "Luca templates"
+ },
+ {
+   "Type": ".lsh",
+   "Language": "Lush source code"
+ },
+ {
+   "Type": ".lnx",
+   "Language": "Lynx project"
+ },
+ {
+   "Type": ".mtx",
+   "Language": "M-Tx Music-From-Text translator source file"
+ },
+ {
+   "Type": ".m4",
+   "Language": "M4 preprocessor macro"
+ },
+ {
+   "Type": ".aplt",
+   "Language": "Mac OS X AppleScript applet file"
+ },
+ {
+   "Type": ".action",
+   "Language": "Mac OS X Automator action script"
+ },
+ {
+   "Type": ".mcw",
+   "Language": "Macaw project"
+ },
+ {
+   "Type": ".md",
+   "Language": "Machine description file"
+ },
+ {
+   "Type": ".acu",
+   "Language": "Machine independent COBOL object file"
+ },
+ {
+   "Type": ".mex",
+   "Language": "Macro Express macro file"
+ },
+ {
+   "Type": ".mac",
+   "Language": "Macro script"
+ },
+ {
+   "Type": ".clx",
+   "Language": "Macro ToolsWorks macro file"
+ },
+ {
+   "Type": ".mrm",
+   "Language": "MacroRunner macro"
+ },
+ {
+   "Type": ".magik",
+   "Language": "Magik source code file"
+ },
+ {
+   "Type": ".mbs",
+   "Language": "Mailbag Assistant script file"
+ },
+ {
+   "Type": ".msl",
+   "Language": "MAINSAIL source code file"
+ },
+ {
+   "Type": ".mls",
+   "Language": "mAirList script file"
+ },
+ {
+   "Type": ".mak",
+   "Language": "Makefile"
+ },
+ {
+   "Type": ".make",
+   "Language": "Makefile"
+ },
+ {
+   "Type": ".makefile",
+   "Language": "Makefile"
+ },
+ {
+   "Type": ".mk",
+   "Language": "Makefile file"
+ },
+ {
+   "Type": ".mako",
+   "Language": "Mako tamplate file"
+ },
+ {
+   "Type": ".mbam",
+   "Language": "Malwarebytes Anti-Malware script"
+ },
+ {
+   "Type": ".msdl",
+   "Language": "Manchester Scene Description Language file"
+ },
+ {
+   "Type": ".mss",
+   "Language": "Manuscript text"
+ },
+ {
+   "Type": ".mb",
+   "Language": "MapBasic program"
+ },
+ {
+   "Type": ".bcf",
+   "Language": "MapTek Vulcan script file"
+ },
+ {
+   "Type": ".mab",
+   "Language": "Markaby script file"
+ },
+ {
+   "Type": ".mkb",
+   "Language": "Marmalade SDK project"
+ },
+ {
+   "Type": ".mrd",
+   "Language": "MathRevolt Infinity document"
+ },
+ {
+   "Type": ".m",
+   "Language": "MatLab function, commands, script"
+ },
+ {
+   "Type": ".matlab",
+   "Language": "Matlab script"
+ },
+ {
+   "Type": ".tikz",
+   "Language": "Matlab tikz script file"
+ },
+ {
+   "Type": ".pom",
+   "Language": "Maven build file"
+ },
+ {
+   "Type": ".msp",
+   "Language": "Max Script Page"
+ },
+ {
+   "Type": ".mec",
+   "Language": "Maximus MECCA source file"
+ },
+ {
+   "Type": ".mel",
+   "Language": "Maya Embedded Language"
+ },
+ {
+   "Type": ".m6m",
+   "Language": "Mazatrol language M640M NC unit"
+ },
+ {
+   "Type": ".mhl",
+   "Language": "Media Hash List"
+ },
+ {
+   "Type": ".ebc",
+   "Language": "MediaBASIC compiled project"
+ },
+ {
+   "Type": ".mss",
+   "Language": "MediaShout presentation script"
+ },
+ {
+   "Type": ".ssc",
+   "Language": "MediaShout presentation script"
+ },
+ {
+   "Type": ".box",
+   "Language": "MediaShout presentation script"
+ },
+ {
+   "Type": ".mediawiki",
+   "Language": "Mediawiki source data"
+ },
+ {
+   "Type": ".mw",
+   "Language": "MediaWiki structured text file"
+ },
+ {
+   "Type": ".dml",
+   "Language": "Medical Manager DML system script file"
+ },
+ {
+   "Type": ".hkp",
+   "Language": "Mentor Graphics database"
+ },
+ {
+   "Type": ".rej",
+   "Language": "Mercurial reject"
+ },
+ {
+   "Type": ".mlx",
+   "Language": "Meshlab filter script"
+ },
+ {
+   "Type": ".mc",
+   "Language": "MetaCard stack file"
+ },
+ {
+   "Type": ".mqt",
+   "Language": "MetaQuotes Language 4 MQL4 template"
+ },
+ {
+   "Type": ".mq4",
+   "Language": "MetaQuotes Language 4 source code"
+ },
+ {
+   "Type": ".mq5",
+   "Language": "MetaQuotes Language 5 source code"
+ },
+ {
+   "Type": ".gnt",
+   "Language": "Micro Focus COBOL generated code"
+ },
+ {
+   "Type": ".rqc",
+   "Language": "Micro Focus Revolve script"
+ },
+ {
+   "Type": ".cobol",
+   "Language": "Micro-Focus Cobol"
+ },
+ {
+   "Type": ".clm",
+   "Language": "Micrografx Picture Publisher macro"
+ },
+ {
+   "Type": ".tkp",
+   "Language": "MicroImages SML script standalone application"
+ },
+ {
+   "Type": ".pdo",
+   "Language": "Microsoft Access Package and Deployment Wizard script"
+ },
+ {
+   "Type": ".asbx",
+   "Language": "Microsoft ASP.Net BridgeHandler file"
+ },
+ {
+   "Type": ".maml",
+   "Language": "Microsoft Assistance Markup Language"
+ },
+ {
+   "Type": ".btproj",
+   "Language": "Microsoft BizTalk Server project file"
+ },
+ {
+   "Type": ".cod",
+   "Language": "Microsoft C compiler output"
+ },
+ {
+   "Type": ".mc6",
+   "Language": "Microsoft C makefile"
+ },
+ {
+   "Type": ".sts",
+   "Language": "Microsoft C project status info"
+ },
+ {
+   "Type": ".res",
+   "Language": "Microsoft C, C++ compiled resource file"
+ },
+ {
+   "Type": ".lrf",
+   "Language": "Microsoft C/C++ linker response file"
+ },
+ {
+   "Type": ".ogx",
+   "Language": "Microsoft C++ component gallery exported classes and resources"
+ },
+ {
+   "Type": ".scx",
+   "Language": "Microsoft Class Browser form"
+ },
+ {
+   "Type": ".ncb",
+   "Language": "Microsoft Developer Studio non-compiled browse file"
+ },
+ {
+   "Type": ".dsp",
+   "Language": "Microsoft Developer Studio project file"
+ },
+ {
+   "Type": ".mdp",
+   "Language": "Microsoft Developer Studio project file"
+ },
+ {
+   "Type": ".scp",
+   "Language": "Microsoft dial-up networking script"
+ },
+ {
+   "Type": ".dic",
+   "Language": "Microsoft Dynamics GP program source code"
+ },
+ {
+   "Type": ".xlm_",
+   "Language": "Microsoft Excel 2 for Mac Macro file"
+ },
+ {
+   "Type": ".xlm3",
+   "Language": "Microsoft Excel 3 for Mac Macro file"
+ },
+ {
+   "Type": ".xlm4",
+   "Language": "Microsoft Excel 4 for Mac Macro file"
+ },
+ {
+   "Type": ".xla",
+   "Language": "Microsoft Excel add-in"
+ },
+ {
+   "Type": ".xlm",
+   "Language": "Microsoft Excel macro"
+ },
+ {
+   "Type": ".dqy",
+   "Language": "Microsoft Excel ODBC query"
+ },
+ {
+   "Type": ".oqy",
+   "Language": "Microsoft Excel OLAP query file"
+ },
+ {
+   "Type": ".rqy",
+   "Language": "Microsoft Excel OLE DB query file"
+ },
+ {
+   "Type": ".xlv",
+   "Language": "Microsoft Excel VBA module file"
+ },
+ {
+   "Type": ".xweb4htt",
+   "Language": "Microsoft Expression Web hypertext template"
+ },
+ {
+   "Type": ".xweb4js",
+   "Language": "Microsoft Expression Web JScript script"
+ },
+ {
+   "Type": ".xweb3master",
+   "Language": "Microsoft Expression Web master page"
+ },
+ {
+   "Type": ".install",
+   "Language": "Microsoft Expression Web PHP script"
+ },
+ {
+   "Type": ".php6",
+   "Language": "Microsoft Expression Web php script"
+ },
+ {
+   "Type": ".module",
+   "Language": "Microsoft Expression Web PHP script"
+ },
+ {
+   "Type": ".xweb4asax",
+   "Language": "Microsoft Expression Web server app"
+ },
+ {
+   "Type": ".exprwdxsl",
+   "Language": "Microsoft Expression Web sheet"
+ },
+ {
+   "Type": ".xweb4stm",
+   "Language": "Microsoft Expression Web STM document"
+ },
+ {
+   "Type": ".wsp",
+   "Language": "Microsoft Fortran Powerstation workspace file"
+ },
+ {
+   "Type": ".spx",
+   "Language": "Microsoft FoxPro compiled form source file"
+ },
+ {
+   "Type": ".spr",
+   "Language": "Microsoft FoxPro form source data"
+ },
+ {
+   "Type": ".hxa",
+   "Language": "Microsoft Help attribute definition file"
+ },
+ {
+   "Type": ".msha",
+   "Language": "Microsoft Help library help manifest"
+ },
+ {
+   "Type": ".msil",
+   "Language": "Microsoft Intermediate Language file"
+ },
+ {
+   "Type": ".jscript",
+   "Language": "Microsoft JScript file"
+ },
+ {
+   "Type": ".lib",
+   "Language": "Microsoft Linker compressed input library file"
+ },
+ {
+   "Type": ".pdb",
+   "Language": "Microsoft Linker input database file"
+ },
+ {
+   "Type": ".exp",
+   "Language": "Microsoft Linker input file"
+ },
+ {
+   "Type": ".lib",
+   "Language": "Microsoft Linker input library data"
+ },
+ {
+   "Type": ".res",
+   "Language": "Microsoft Linker resource compiler input file"
+ },
+ {
+   "Type": ".mhm",
+   "Language": "Microsoft Mouse and Keyboard Center macro"
+ },
+ {
+   "Type": ".odc",
+   "Language": "Microsoft Office database connection data"
+ },
+ {
+   "Type": ".dwp",
+   "Language": "Microsoft Office SharePoint portal server dashboard web part"
+ },
+ {
+   "Type": ".ppa",
+   "Language": "Microsoft PowerPoint 97 to 2003 add-in"
+ },
+ {
+   "Type": ".ppam",
+   "Language": "Microsoft PowerPoint macro-enabled Open XML add-in"
+ },
+ {
+   "Type": ".nmk",
+   "Language": "Microsoft Program Maintenance Utility make file"
+ },
+ {
+   "Type": ".qcf",
+   "Language": "Microsoft QBasic coordinates"
+ },
+ {
+   "Type": ".msh1",
+   "Language": "Microsoft Shell script file"
+ },
+ {
+   "Type": ".msh2",
+   "Language": "Microsoft Shell script file"
+ },
+ {
+   "Type": ".sb",
+   "Language": "Microsoft Small Basic source code"
+ },
+ {
+   "Type": ".ipf",
+   "Language": "Microsoft SMS installer script"
+ },
+ {
+   "Type": ".tql",
+   "Language": "Microsoft SQL Server query analyser header"
+ },
+ {
+   "Type": ".viw",
+   "Language": "Microsoft SQL Server view script"
+ },
+ {
+   "Type": ".tab",
+   "Language": "Microsoft SQL table script file"
+ },
+ {
+   "Type": ".cls",
+   "Language": "Microsoft Visual Basic 4 class module add-in"
+ },
+ {
+   "Type": ".dsr",
+   "Language": "Microsoft Visual Basic Active Designer file"
+ },
+ {
+   "Type": ".vbg",
+   "Language": "Microsoft Visual Basic compatible project group file"
+ },
+ {
+   "Type": ".vbx",
+   "Language": "Microsoft Visual Basic Extension file"
+ },
+ {
+   "Type": ".bi",
+   "Language": "Microsoft Visual Basic for DOS include file"
+ },
+ {
+   "Type": ".gbl",
+   "Language": "Microsoft Visual Basic global definition"
+ },
+ {
+   "Type": ".vbp",
+   "Language": "Microsoft Visual Basic project"
+ },
+ {
+   "Type": ".dep",
+   "Language": "Microsoft Visual Basic Setup Wizard dependency data"
+ },
+ {
+   "Type": ".dob",
+   "Language": "Microsoft Visual Basic user document form"
+ },
+ {
+   "Type": ".vc15",
+   "Language": "Microsoft Visual C 1.5 make file"
+ },
+ {
+   "Type": ".vc2",
+   "Language": "Microsoft Visual C file"
+ },
+ {
+   "Type": ".vc5",
+   "Language": "Microsoft Visual C make file"
+ },
+ {
+   "Type": ".vc7",
+   "Language": "Microsoft Visual C makefile"
+ },
+ {
+   "Type": ".vc1",
+   "Language": "Microsoft Visual C makefile"
+ },
+ {
+   "Type": ".c#",
+   "Language": "Microsoft Visual C# data"
+ },
+ {
+   "Type": ".csx",
+   "Language": "Microsoft Visual C# primary script"
+ },
+ {
+   "Type": ".msdev",
+   "Language": "Microsoft Visual C+ make file"
+ },
+ {
+   "Type": ".aps",
+   "Language": "Microsoft Visual C++ binary resource"
+ },
+ {
+   "Type": ".cls",
+   "Language": "Microsoft Visual C++ class definition"
+ },
+ {
+   "Type": ".msvc",
+   "Language": "Microsoft Visual C++ compiler makefile"
+ },
+ {
+   "Type": ".exp",
+   "Language": "Microsoft Visual C++ export file"
+ },
+ {
+   "Type": ".ipch",
+   "Language": "Microsoft Visual C++ Intellisense precompiled header file"
+ },
+ {
+   "Type": ".vc4",
+   "Language": "Microsoft Visual C++ makefile"
+ },
+ {
+   "Type": ".clw",
+   "Language": "Microsoft Visual C++ MFC Class Wizard information data"
+ },
+ {
+   "Type": ".sbr",
+   "Language": "Microsoft Visual C++ source browser intermediate data"
+ },
+ {
+   "Type": ".mdp",
+   "Language": "Microsoft Visual C++ Visual J++ MAK workspace (old project workspace)"
+ },
+ {
+   "Type": ".fsi",
+   "Language": "Microsoft Visual F# signature data"
+ },
+ {
+   "Type": ".fs",
+   "Language": "Microsoft Visual F# source code"
+ },
+ {
+   "Type": ".jsl",
+   "Language": "Microsoft Visual J# project"
+ },
+ {
+   "Type": ".vjsproj",
+   "Language": "Microsoft Visual J# project"
+ },
+ {
+   "Type": ".vjp",
+   "Language": "Microsoft Visual J++ project"
+ },
+ {
+   "Type": ".ptl",
+   "Language": "Microsoft Visual Modeler petal file"
+ },
+ {
+   "Type": ".mvpl",
+   "Language": "Microsoft Visual Programming Language project"
+ },
+ {
+   "Type": ".resx",
+   "Language": "Microsoft Visual Studio .NET XML resource template"
+ },
+ {
+   "Type": ".rptproj",
+   "Language": "Microsoft Visual Studio 2008 report project"
+ },
+ {
+   "Type": ".asproj",
+   "Language": "Microsoft Visual Studio Analysis Services project file"
+ },
+ {
+   "Type": ".vap",
+   "Language": "Microsoft Visual Studio Analyzer project file"
+ },
+ {
+   "Type": ".androidproj",
+   "Language": "Microsoft Visual Studio Android project"
+ },
+ {
+   "Type": ".myapp",
+   "Language": "Microsoft Visual Studio application XML"
+ },
+ {
+   "Type": ".xproj",
+   "Language": "Microsoft Visual Studio ASP.NET project"
+ },
+ {
+   "Type": ".vbhtml",
+   "Language": "Microsoft Visual Studio ASP.NET web page"
+ },
+ {
+   "Type": ".vsmacros",
+   "Language": "Microsoft Visual Studio binary-based macro project"
+ },
+ {
+   "Type": ".classdiagram",
+   "Language": "Microsoft Visual Studio class diagram file"
+ },
+ {
+   "Type": ".ccproj",
+   "Language": "Microsoft Visual Studio cloud service project"
+ },
+ {
+   "Type": ".coverage",
+   "Language": "Microsoft Visual Studio code coverage data"
+ },
+ {
+   "Type": ".coveragexml",
+   "Language": "Microsoft Visual Studio code coverage file"
+ },
+ {
+   "Type": ".snippet",
+   "Language": "Microsoft Visual Studio code snippet"
+ },
+ {
+   "Type": ".vscontent",
+   "Language": "Microsoft Visual Studio Content Installer file"
+ },
+ {
+   "Type": ".datasource",
+   "Language": "Microsoft Visual Studio data source"
+ },
+ {
+   "Type": ".dbmdl",
+   "Language": "Microsoft Visual Studio database project"
+ },
+ {
+   "Type": ".db2",
+   "Language": "Microsoft Visual Studio DB2 SQL script file"
+ },
+ {
+   "Type": ".db2tbl",
+   "Language": "Microsoft Visual Studio DB2 table script"
+ },
+ {
+   "Type": ".db2tr",
+   "Language": "Microsoft Visual Studio DB2 trigger script file"
+ },
+ {
+   "Type": ".db2vw",
+   "Language": "Microsoft Visual Studio DB2 view script file"
+ },
+ {
+   "Type": ".dd",
+   "Language": "Microsoft Visual Studio deployment diagram file"
+ },
+ {
+   "Type": ".vdp",
+   "Language": "Microsoft Visual Studio deployment project"
+ },
+ {
+   "Type": ".vddproj",
+   "Language": "Microsoft Visual Studio deployment project file"
+ },
+ {
+   "Type": ".idb",
+   "Language": "Microsoft Visual Studio developer intermediate debug data"
+ },
+ {
+   "Type": ".dgml",
+   "Language": "Microsoft Visual Studio Directed Graph Markup Language source code"
+ },
+ {
+   "Type": ".docstates",
+   "Language": "Microsoft Visual Studio Document Tab Well file"
+ },
+ {
+   "Type": ".ldz",
+   "Language": "Microsoft Visual Studio DSM project file"
+ },
+ {
+   "Type": ".fsx",
+   "Language": "Microsoft Visual Studio F# script"
+ },
+ {
+   "Type": ".fsscript",
+   "Language": "Microsoft Visual Studio F# script file"
+ },
+ {
+   "Type": ".generictest",
+   "Language": "Microsoft Visual Studio generic test file"
+ },
+ {
+   "Type": ".csgrad",
+   "Language": "Microsoft Visual Studio gradients file"
+ },
+ {
+   "Type": ".ipproj",
+   "Language": "Microsoft Visual Studio InfoPath project file"
+ },
+ {
+   "Type": ".odh",
+   "Language": "Microsoft Visual Studio Interface Definition Language file"
+ },
+ {
+   "Type": ".jomproj",
+   "Language": "Microsoft Visual Studio JOOB object model project file"
+ },
+ {
+   "Type": ".licx",
+   "Language": "Microsoft Visual Studio license"
+ },
+ {
+   "Type": ".licenses",
+   "Language": "Microsoft Visual Studio licensed classes"
+ },
+ {
+   "Type": ".lsxtproj",
+   "Language": "Microsoft Visual Studio LightSwitch project"
+ },
+ {
+   "Type": ".ls3proj",
+   "Language": "Microsoft Visual Studio LightSwitch project"
+ },
+ {
+   "Type": ".ilk",
+   "Language": "Microsoft Visual Studio Linker input file"
+ },
+ {
+   "Type": ".lst",
+   "Language": "Microsoft Visual Studio MASM listing data"
+ },
+ {
+   "Type": ".obj",
+   "Language": "Microsoft Visual Studio object"
+ },
+ {
+   "Type": ".dbml",
+   "Language": "Microsoft Visual Studio Object Relational OR Designer design"
+ },
+ {
+   "Type": ".phpproj",
+   "Language": "Microsoft Visual Studio PHP project"
+ },
+ {
+   "Type": ".vspolicy",
+   "Language": "Microsoft Visual Studio Policy Description Language file"
+ },
+ {
+   "Type": ".i",
+   "Language": "Microsoft Visual Studio preprocessed source file"
+ },
+ {
+   "Type": ".vsprops",
+   "Language": "Microsoft Visual Studio project property sheet file"
+ },
+ {
+   "Type": ".vstemplate",
+   "Language": "Microsoft Visual Studio project template"
+ },
+ {
+   "Type": ".resources",
+   "Language": "Microsoft Visual Studio resource"
+ },
+ {
+   "Type": ".cord",
+   "Language": "Microsoft Visual Studio script"
+ },
+ {
+   "Type": ".sln",
+   "Language": "Microsoft Visual Studio solution data"
+ },
+ {
+   "Type": ".sqlproj",
+   "Language": "Microsoft Visual Studio SQL server project"
+ },
+ {
+   "Type": ".ttinclude",
+   "Language": "Microsoft Visual Studio text template"
+ },
+ {
+   "Type": ".tmf",
+   "Language": "Microsoft Visual Studio trace message"
+ },
+ {
+   "Type": ".csview",
+   "Language": "Microsoft Visual Studio views file"
+ },
+ {
+   "Type": ".vip",
+   "Language": "Microsoft Visual Studio Visual Basic InterDev project"
+ },
+ {
+   "Type": ".vbproj",
+   "Language": "Microsoft Visual Studio Visual Basic project"
+ },
+ {
+   "Type": ".vb",
+   "Language": "Microsoft Visual Studio Visual Basic script"
+ },
+ {
+   "Type": ".vbw",
+   "Language": "Microsoft Visual Studio Visual Basic workspace"
+ },
+ {
+   "Type": ".mdp",
+   "Language": "Microsoft Visual Studio Visual Basic workspace file"
+ },
+ {
+   "Type": ".rc2",
+   "Language": "Microsoft Visual Studio Visual C/C++ non-compilable resource script file"
+ },
+ {
+   "Type": ".rc",
+   "Language": "Microsoft Visual Studio Visual C/C++ resource script"
+ },
+ {
+   "Type": ".csproj",
+   "Language": "Microsoft Visual Studio Visual C# project"
+ },
+ {
+   "Type": ".cs",
+   "Language": "Microsoft Visual Studio Visual C#.NET source data"
+ },
+ {
+   "Type": ".dbp",
+   "Language": "Microsoft Visual Studio Visual C++ database project"
+ },
+ {
+   "Type": ".dbproj",
+   "Language": "Microsoft Visual Studio Visual C++ database project"
+ },
+ {
+   "Type": ".vdproj",
+   "Language": "Microsoft Visual Studio Visual C++ deployment project"
+ },
+ {
+   "Type": ".vmx",
+   "Language": "Microsoft Visual Studio Visual C++ macro project file"
+ },
+ {
+   "Type": ".pch",
+   "Language": "Microsoft Visual Studio Visual C++ precompiled header"
+ },
+ {
+   "Type": ".pdb",
+   "Language": "Microsoft Visual Studio Visual C++ program database"
+ },
+ {
+   "Type": ".vcxproj",
+   "Language": "Microsoft Visual Studio Visual C++ project"
+ },
+ {
+   "Type": ".vcp",
+   "Language": "Microsoft Visual Studio Visual C++ project"
+ },
+ {
+   "Type": ".vcproj",
+   "Language": "Microsoft Visual Studio Visual C++ project"
+ },
+ {
+   "Type": ".mfcribbon-ms",
+   "Language": "Microsoft Visual Studio Visual C++ ribbon resource code file"
+ },
+ {
+   "Type": ".bsc",
+   "Language": "Microsoft Visual Studio Visual C++ source browser information data"
+ },
+ {
+   "Type": ".fsproj",
+   "Language": "Microsoft Visual Studio Visual F# project"
+ },
+ {
+   "Type": ".dgsl",
+   "Language": "Microsoft Visual Studio visual shader graph file"
+ },
+ {
+   "Type": ".atp",
+   "Language": "Microsoft Visual Studio Visual SourceSafe ACT project"
+ },
+ {
+   "Type": ".actproj",
+   "Language": "Microsoft Visual Studio Visual SourceSafe ACT project file"
+ },
+ {
+   "Type": ".vsixmanifest",
+   "Language": "Microsoft Visual Studio VSIX manifest file"
+ },
+ {
+   "Type": ".wdproj",
+   "Language": "Microsoft Visual Studio web deployment project file"
+ },
+ {
+   "Type": ".wsdl",
+   "Language": "Microsoft Visual Studio Web Service Description Language"
+ },
+ {
+   "Type": ".appxsym",
+   "Language": "Microsoft Visual Studio Windows 8 application information file"
+ },
+ {
+   "Type": ".appxupload",
+   "Language": "Microsoft Visual Studio Windows application upload data"
+ },
+ {
+   "Type": ".dso",
+   "Language": "Microsoft Visual Studio workspace data"
+ },
+ {
+   "Type": ".xamlx",
+   "Language": "Microsoft Visual Studio XAMLX document"
+ },
+ {
+   "Type": ".xql",
+   "Language": "Microsoft Visual Studio xml file"
+ },
+ {
+   "Type": ".xmta",
+   "Language": "Microsoft Visual Studio XMTA document"
+ },
+ {
+   "Type": ".xoml",
+   "Language": "Microsoft Visual Studio XOML file"
+ },
+ {
+   "Type": ".xsc",
+   "Language": "Microsoft Visual Studio XSC file"
+ },
+ {
+   "Type": ".pcd",
+   "Language": "Microsoft Visual Test file"
+ },
+ {
+   "Type": ".win32manifest",
+   "Language": "Microsoft Win32 manifest file"
+ },
+ {
+   "Type": ".resjson",
+   "Language": "Microsoft Windows 8 Metro JavaScript file"
+ },
+ {
+   "Type": ".cspkg",
+   "Language": "Microsoft Windows Azure package"
+ },
+ {
+   "Type": ".wbf",
+   "Language": "Microsoft Windows batch file"
+ },
+ {
+   "Type": ".dlg",
+   "Language": "Microsoft Windows dialogue resource script"
+ },
+ {
+   "Type": ".ptxml",
+   "Language": "Microsoft Windows DLL XML related data"
+ },
+ {
+   "Type": ".wfs",
+   "Language": "Microsoft Windows installation script"
+ },
+ {
+   "Type": ".rbs",
+   "Language": "Microsoft Windows Installer Rollback Script file"
+ },
+ {
+   "Type": ".mc",
+   "Language": "Microsoft Windows localized message table resource file"
+ },
+ {
+   "Type": ".mcml",
+   "Language": "Microsoft Windows Media Center MCML data"
+ },
+ {
+   "Type": ".htr",
+   "Language": "Microsoft Windows NT password services script"
+ },
+ {
+   "Type": ".psc1",
+   "Language": "Microsoft Windows PowerShell console file"
+ },
+ {
+   "Type": ".psd1",
+   "Language": "Microsoft Windows PowerShell data"
+ },
+ {
+   "Type": ".psc2",
+   "Language": "Microsoft Windows PowerShell script file"
+ },
+ {
+   "Type": ".psm1",
+   "Language": "Microsoft Windows PowerShell script module"
+ },
+ {
+   "Type": ".rbf",
+   "Language": "Microsoft Windows rollback script"
+ },
+ {
+   "Type": ".bks",
+   "Language": "Microsoft Windows scheduled backup script"
+ },
+ {
+   "Type": ".ws",
+   "Language": "Microsoft Windows script"
+ },
+ {
+   "Type": ".sct",
+   "Language": "Microsoft Windows script component"
+ },
+ {
+   "Type": ".v4e",
+   "Language": "Microsoft Windows Script Host data"
+ },
+ {
+   "Type": ".v4s",
+   "Language": "Microsoft Windows Script Host file"
+ },
+ {
+   "Type": ".wsc",
+   "Language": "Microsoft Windows scripting component"
+ },
+ {
+   "Type": ".wsh",
+   "Language": "Microsoft Windows Scripting Host file"
+ },
+ {
+   "Type": ".mke",
+   "Language": "Microsoft Windows SDK make file"
+ },
+ {
+   "Type": ".ps2",
+   "Language": "Microsoft Windows Shell script"
+ },
+ {
+   "Type": ".script",
+   "Language": "Microsoft WinHelp related data"
+ },
+ {
+   "Type": ".ls1",
+   "Language": "Microsoft Winhelp source file"
+ },
+ {
+   "Type": ".wdx9",
+   "Language": "Microsoft Word for Mac wizard file"
+ },
+ {
+   "Type": ".wzs",
+   "Language": "Microsoft Word wizard file"
+ },
+ {
+   "Type": ".mdex",
+   "Language": "Mifos Data Exchange XML data"
+ },
+ {
+   "Type": ".mbas",
+   "Language": "mikroBasic source code file"
+ },
+ {
+   "Type": ".mmbas",
+   "Language": "MindManager 7 macro"
+ },
+ {
+   "Type": ".mingw32",
+   "Language": "Mingw compiler file"
+ },
+ {
+   "Type": ".mingw",
+   "Language": "MinGW make file"
+ },
+ {
+   "Type": ".aml",
+   "Language": "Mio technology application markup language"
+ },
+ {
+   "Type": ".mrc",
+   "Language": "mIRC script"
+ },
+ {
+   "Type": ".mvc",
+   "Language": "Miva compiled script"
+ },
+ {
+   "Type": ".ml",
+   "Language": "ML language source code"
+ },
+ {
+   "Type": ".mml",
+   "Language": "Mobile Markup Language file"
+ },
+ {
+   "Type": ".moc",
+   "Language": "MOCHA Java script"
+ },
+ {
+   "Type": ".mbtemmplate",
+   "Language": "ModelBaker custom template directory"
+ },
+ {
+   "Type": ".fdo",
+   "Language": "ModelSim script"
+ },
+ {
+   "Type": ".m2",
+   "Language": "Modula 2 language source file"
+ },
+ {
+   "Type": ".m3",
+   "Language": "Modula 3 programming language source code"
+ },
+ {
+   "Type": ".rfx",
+   "Language": "Modula M2SDS file"
+ },
+ {
+   "Type": ".mod",
+   "Language": "Modula-2 programming language source code"
+ },
+ {
+   "Type": ".b",
+   "Language": "Modula-3 base program file"
+ },
+ {
+   "Type": ".ig",
+   "Language": "Modula-3 generic interface source"
+ },
+ {
+   "Type": ".mg",
+   "Language": "Modula-3 generic module source"
+ },
+ {
+   "Type": ".is",
+   "Language": "Modula-3 intermediate assembly file"
+ },
+ {
+   "Type": ".ms",
+   "Language": "Modula-3 intermediate assembly file"
+ },
+ {
+   "Type": ".mx",
+   "Language": "Modula-3 linker information"
+ },
+ {
+   "Type": ".ixx",
+   "Language": "Modula-3 Linker information file"
+ },
+ {
+   "Type": ".mc",
+   "Language": "Modula-3 M3CG intermediate language data"
+ },
+ {
+   "Type": ".ic",
+   "Language": "Modula-3 M3CG intermediate language file"
+ },
+ {
+   "Type": ".io",
+   "Language": "Modula-3 object"
+ },
+ {
+   "Type": ".mo",
+   "Language": "Modula-3 object"
+ },
+ {
+   "Type": ".tplt",
+   "Language": "Molly template"
+ },
+ {
+   "Type": ".mpd",
+   "Language": "Monadic predicates"
+ },
+ {
+   "Type": ".msct",
+   "Language": "MOPEKS script file"
+ },
+ {
+   "Type": ".mpkt",
+   "Language": "MOPEKS trial file"
+ },
+ {
+   "Type": ".jbi",
+   "Language": "Motoman robot job file"
+ },
+ {
+   "Type": ".mfl",
+   "Language": "Mozilla Firefox XUL fastload data"
+ },
+ {
+   "Type": ".gld",
+   "Language": "MPLAB C Compiler linker script file"
+ },
+ {
+   "Type": ".mcp",
+   "Language": "MPLAB IDE project"
+ },
+ {
+   "Type": ".mrl",
+   "Language": "MRLR Multimedia Retrival Markup Language data"
+ },
+ {
+   "Type": ".deb",
+   "Language": "MS-DOS debug script"
+ },
+ {
+   "Type": ".targets",
+   "Language": "MSBuild targets file"
+ },
+ {
+   "Type": ".ses",
+   "Language": "MSC Patran macro"
+ },
+ {
+   "Type": ".il",
+   "Language": "MSIL Assembler input file"
+ },
+ {
+   "Type": ".con",
+   "Language": "MySQL SQL constraints script"
+ },
+ {
+   "Type": ".ndpvs",
+   "Language": "NanoZoomer script"
+ },
+ {
+   "Type": ".build",
+   "Language": "NAnt Build Tool data"
+ },
+ {
+   "Type": ".sasf",
+   "Language": "NASA spacecraft activity sequence"
+ },
+ {
+   "Type": ".nas",
+   "Language": "Nasal script"
+ },
+ {
+   "Type": ".nmpj",
+   "Language": "Navicat for MariaDB batch job"
+ },
+ {
+   "Type": ".nopj",
+   "Language": "Navicat for Oracle batch job"
+ },
+ {
+   "Type": ".nppj",
+   "Language": "Navicat for PostgreSQL batch job"
+ },
+ {
+   "Type": ".nspj",
+   "Language": "Navicat for SQL Server batch job file"
+ },
+ {
+   "Type": ".nlpj",
+   "Language": "Navicat for SQlite batch job"
+ },
+ {
+   "Type": ".napj",
+   "Language": "Navicat Premium batch job"
+ },
+ {
+   "Type": ".ncx",
+   "Language": "Navigation Control for XML"
+ },
+ {
+   "Type": ".ods",
+   "Language": "NCompass Labs internet related script file"
+ },
+ {
+   "Type": ".neko",
+   "Language": "Neko source code file"
+ },
+ {
+   "Type": ".nlc",
+   "Language": "Nero Linux compilation file"
+ },
+ {
+   "Type": ".nes",
+   "Language": "Nessus attack scripting language key file"
+ },
+ {
+   "Type": ".netproject",
+   "Language": "netfabb Basic project file"
+ },
+ {
+   "Type": ".nls",
+   "Language": "NetLogo source code"
+ },
+ {
+   "Type": ".dws",
+   "Language": "Netop script file"
+ },
+ {
+   "Type": ".zh_tw",
+   "Language": "Netscape Communicator java classes file"
+ },
+ {
+   "Type": ".rdoff",
+   "Language": "Netwide assembler file"
+ },
+ {
+   "Type": ".mm",
+   "Language": "NeXtMidas macro file"
+ },
+ {
+   "Type": ".nhs",
+   "Language": "NHibernate file"
+ },
+ {
+   "Type": ".mjk",
+   "Language": "NLMTIM question file"
+ },
+ {
+   "Type": ".nse",
+   "Language": "Nmap security scanner scripting engine file"
+ },
+ {
+   "Type": ".nokogiri",
+   "Language": "Nokogiri source file"
+ },
+ {
+   "Type": ".spk",
+   "Language": "Not compiled software package file"
+ },
+ {
+   "Type": ".nrs",
+   "Language": "NovaBACKUP restore script file"
+ },
+ {
+   "Type": ".nbk",
+   "Language": "NovaBACKUP script"
+ },
+ {
+   "Type": ".nqc",
+   "Language": "NQC Not Quite C source code file"
+ },
+ {
+   "Type": ".nsconfig",
+   "Language": "nsconfig authentication file"
+ },
+ {
+   "Type": ".nsi",
+   "Language": "NSIS Nullsoft Scriptable Install System script file"
+ },
+ {
+   "Type": ".nupkg",
+   "Language": "NuGet source code package"
+ },
+ {
+   "Type": ".nk",
+   "Language": "NUKE script"
+ },
+ {
+   "Type": ".nunit",
+   "Language": "NUnit test project"
+ },
+ {
+   "Type": ".njk",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".tpl",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".nunjucks",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".tmpl",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".nunj",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".nj",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".nunjs",
+   "Language": "Nunjucks template"
+ },
+ {
+   "Type": ".l1i",
+   "Language": "NutkungX script file"
+ },
+ {
+   "Type": ".cg",
+   "Language": "nVidia CgFX program"
+ },
+ {
+   "Type": ".ptx",
+   "Language": "NVIDIA CUDA parallel thread execution assembly language data"
+ },
+ {
+   "Type": ".fxcproj",
+   "Language": "nVidia FX Composer project file"
+ },
+ {
+   "Type": ".nvi",
+   "Language": "nVidia graphics card driver settings"
+ },
+ {
+   "Type": ".nxc",
+   "Language": "NXC Not eXactly C source code file"
+ },
+ {
+   "Type": ".ob2",
+   "Language": "Oberon 2 source code"
+ },
+ {
+   "Type": ".o",
+   "Language": "Object format"
+ },
+ {
+   "Type": ".orl",
+   "Language": "Object-Relational Language file"
+ },
+ {
+   "Type": ".m",
+   "Language": "Objective-C language source data"
+ },
+ {
+   "Type": ".mly",
+   "Language": "OCaml ocamlyacc input file"
+ },
+ {
+   "Type": ".ml",
+   "Language": "OCaml source code file"
+ },
+ {
+   "Type": ".ssq",
+   "Language": "ODBC script"
+ },
+ {
+   "Type": ".tsq",
+   "Language": "ODBC script file"
+ },
+ {
+   "Type": ".xjb",
+   "Language": "OEPE JAXB Wizard bindings data"
+ },
+ {
+   "Type": ".xbc",
+   "Language": "OEPE JAXB Wizard bindings file"
+ },
+ {
+   "Type": ".ogr",
+   "Language": "OGR C++ open source library"
+ },
+ {
+   "Type": ".oks",
+   "Language": "OKScript file"
+ },
+ {
+   "Type": ".kst",
+   "Language": "Olivetti Olitext Plus script"
+ },
+ {
+   "Type": ".idl",
+   "Language": "OMG CORBA interface definition language file"
+ },
+ {
+   "Type": ".xfm",
+   "Language": "OmniForm XML data"
+ },
+ {
+   "Type": ".xin",
+   "Language": "OmniMark include data"
+ },
+ {
+   "Type": ".sda",
+   "Language": "OneSpace Designer assembly file"
+ },
+ {
+   "Type": ".rxs",
+   "Language": "ooRexx script file"
+ },
+ {
+   "Type": ".okm",
+   "Language": "Open Knowledge Management script file"
+ },
+ {
+   "Type": ".opl",
+   "Language": "Open Programming Language source code"
+ },
+ {
+   "Type": ".w",
+   "Language": "OpenEdge Architect source code file"
+ },
+ {
+   "Type": ".xds",
+   "Language": "OpenGL Performer script file"
+ },
+ {
+   "Type": ".hid",
+   "Language": "OpenOffice.org Help ID file"
+ },
+ {
+   "Type": ".sid",
+   "Language": "OpenOffice.org slot id file"
+ },
+ {
+   "Type": ".pxml",
+   "Language": "OpenPandora XML file"
+ },
+ {
+   "Type": ".opv",
+   "Language": "OpenPanorama visit data"
+ },
+ {
+   "Type": ".owd",
+   "Language": "OpenWire project file"
+ },
+ {
+   "Type": ".policy",
+   "Language": "Opera policy file"
+ },
+ {
+   "Type": ".oppo",
+   "Language": "oppo core data"
+ },
+ {
+   "Type": ".defi",
+   "Language": "Oracle 7 de-install script file"
+ },
+ {
+   "Type": ".orc",
+   "Language": "Oracle 7 script file"
+ },
+ {
+   "Type": ".py",
+   "Language": "Oracle batch procedure file"
+ },
+ {
+   "Type": ".fmb",
+   "Language": "Oracle Forms binary source code"
+ },
+ {
+   "Type": ".mmb",
+   "Language": "Oracle Forms menu binary source code file"
+ },
+ {
+   "Type": ".fxml",
+   "Language": "Oracle FXML language source code"
+ },
+ {
+   "Type": ".pkb",
+   "Language": "Oracle PL/SQL package body data"
+ },
+ {
+   "Type": ".pkh",
+   "Language": "Oracle PL/SQL package file"
+ },
+ {
+   "Type": ".pc",
+   "Language": "Oracle ProC source code file"
+ },
+ {
+   "Type": ".rmn",
+   "Language": "Oracle Recovery Manager script file"
+ },
+ {
+   "Type": ".rdf",
+   "Language": "Oracle report binary source"
+ },
+ {
+   "Type": ".inp",
+   "Language": "Oracle source code"
+ },
+ {
+   "Type": ".xsql",
+   "Language": "Oracle XSQL Servlet server side file"
+ },
+ {
+   "Type": ".ocb",
+   "Language": "Origin precompiled Origin C source code"
+ },
+ {
+   "Type": ".ogs",
+   "Language": "Origin script"
+ },
+ {
+   "Type": ".command",
+   "Language": "OS X Terminal script"
+ },
+ {
+   "Type": ".osg",
+   "Language": "OSGJS JSON input file"
+ },
+ {
+   "Type": ".oplm",
+   "Language": "Outline Processor Markup Language file"
+ },
+ {
+   "Type": ".xblr",
+   "Language": "Output raw XBRL file"
+ },
+ {
+   "Type": ".owx",
+   "Language": "OutWit Hub script file"
+ },
+ {
+   "Type": ".csc",
+   "Language": "Ovation Pro C script file"
+ },
+ {
+   "Type": ".b24",
+   "Language": "Ovation Pro for RISC OS C script"
+ },
+ {
+   "Type": ".owl",
+   "Language": "OWL (Obfuscated Weird Language) source code"
+ },
+ {
+   "Type": ".ox",
+   "Language": "Ox source code"
+ },
+ {
+   "Type": ".pdml",
+   "Language": "Packet Details Markup Language source code"
+ },
+ {
+   "Type": ".psml",
+   "Language": "Packet Summary Markup Language file"
+ },
+ {
+   "Type": ".pds",
+   "Language": "PALASM source code file"
+ },
+ {
+   "Type": ".pml",
+   "Language": "Palm Markup Language source code"
+ },
+ {
+   "Type": ".axe",
+   "Language": "Paradigm C++ integrated debugger file"
+ },
+ {
+   "Type": ".dpr",
+   "Language": "Pascal file"
+ },
+ {
+   "Type": ".inc",
+   "Language": "Pascal file"
+ },
+ {
+   "Type": ".dpk",
+   "Language": "Pascal file"
+ },
+ {
+   "Type": ".dfm",
+   "Language": "Pascal file"
+ },
+ {
+   "Type": ".imp",
+   "Language": "Pascal implementation file"
+ },
+ {
+   "Type": ".p",
+   "Language": "Pascal language source code"
+ },
+ {
+   "Type": ".psl",
+   "Language": "PATROL script language script file"
+ },
+ {
+   "Type": ".pawn",
+   "Language": "Pawn scripting language source code"
+ },
+ {
+   "Type": ".pwn",
+   "Language": "Pawn source code file"
+ },
+ {
+   "Type": ".tpt",
+   "Language": "PCLTool transformation parameter table file"
+ },
+ {
+   "Type": ".alg",
+   "Language": "PDP-10 ALGOL compiler source"
+ },
+ {
+   "Type": ".bli",
+   "Language": "PDP-10 BLISS-10 compiler source"
+ },
+ {
+   "Type": ".f40",
+   "Language": "PDP-10 FORTRAN-4 compiler source file"
+ },
+ {
+   "Type": ".sit",
+   "Language": "PDP-10 Fortran-77 compiler source file"
+ },
+ {
+   "Type": ".scm",
+   "Language": "PDP-10 source compare file"
+ },
+ {
+   "Type": ".tec",
+   "Language": "PDP-10 TECO macro file"
+ },
+ {
+   "Type": ".4pk",
+   "Language": "Perfect Keyboard macro set"
+ },
+ {
+   "Type": ".pbp",
+   "Language": "Perl Builder file"
+ },
+ {
+   "Type": ".cgi",
+   "Language": "Perl cgi script"
+ },
+ {
+   "Type": ".pm",
+   "Language": "Perl Code script module"
+ },
+ {
+   "Type": ".pdl",
+   "Language": "Perl Data Language file"
+ },
+ {
+   "Type": ".pd",
+   "Language": "Perl Data Language preprocessor file"
+ },
+ {
+   "Type": ".pp",
+   "Language": "Perl Data Language PreProcessor file"
+ },
+ {
+   "Type": ".perlctrl",
+   "Language": "Perl Dev Kit PerlCtrl project"
+ },
+ {
+   "Type": ".perlnet",
+   "Language": "Perl Dev Kit PerlNET project"
+ },
+ {
+   "Type": ".perltray",
+   "Language": "Perl Dev Kit PerlTray project"
+ },
+ {
+   "Type": ".perlsvc",
+   "Language": "Perl Dev Kit project"
+ },
+ {
+   "Type": ".ph",
+   "Language": "Perl header"
+ },
+ {
+   "Type": ".pod",
+   "Language": "Perl POD-formated text"
+ },
+ {
+   "Type": ".plx",
+   "Language": "PERL programming language script"
+ },
+ {
+   "Type": ".prl",
+   "Language": "Perl script"
+ },
+ {
+   "Type": ".pl",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".pl6",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".p5",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".p6",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".pl5",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".pm6",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".pm5",
+   "Language": "Perl script language source code"
+ },
+ {
+   "Type": ".perl",
+   "Language": "Perl source code"
+ },
+ {
+   "Type": ".pls",
+   "Language": "PerlScript file"
+ },
+ {
+   "Type": ".pbxscript",
+   "Language": "Personal Backup script file"
+ },
+ {
+   "Type": ".pbx5script",
+   "Language": "Personal Backup script file"
+ },
+ {
+   "Type": ".ppml",
+   "Language": "Personalized Print Markup Language document"
+ },
+ {
+   "Type": ".pxt",
+   "Language": "PEST - the professional exam system quiz script"
+ },
+ {
+   "Type": ".pfx",
+   "Language": "PFXplus application source code"
+ },
+ {
+   "Type": ".php",
+   "Language": "PHP script or page"
+ },
+ {
+   "Type": ".phps",
+   "Language": "PHP script source code file"
+ },
+ {
+   "Type": ".php5",
+   "Language": "PHP script version 5 (HyperText PreProcessor)"
+ },
+ {
+   "Type": ".mod",
+   "Language": "PHP source code"
+ },
+ {
+   "Type": ".phl",
+   "Language": "PHP source data"
+ },
+ {
+   "Type": ".tpl",
+   "Language": "PHP template file format"
+ },
+ {
+   "Type": ".phpt",
+   "Language": "PHP test suite file"
+ },
+ {
+   "Type": ".php2",
+   "Language": "PHP version 2 script (HyperText PreProcessor)"
+ },
+ {
+   "Type": ".php3",
+   "Language": "PHP version 3 script"
+ },
+ {
+   "Type": ".phtml",
+   "Language": "PHP Web page"
+ },
+ {
+   "Type": ".php1",
+   "Language": "PHP1 auto data"
+ },
+ {
+   "Type": ".pmp",
+   "Language": "PHPMaker project"
+ },
+ {
+   "Type": ".phs",
+   "Language": "PHScript file"
+ },
+ {
+   "Type": ".kumac",
+   "Language": "Physics Analysis Workstation macro file"
+ },
+ {
+   "Type": ".psf",
+   "Language": "PID script file"
+ },
+ {
+   "Type": ".pm",
+   "Language": "Pidgin instant messenger module file"
+ },
+ {
+   "Type": ".pika",
+   "Language": "Pika Software Builder project file"
+ },
+ {
+   "Type": ".pmod",
+   "Language": "Pike module file"
+ },
+ {
+   "Type": ".pike",
+   "Language": "Pike source code file"
+ },
+ {
+   "Type": ".pxl",
+   "Language": "PiXCL Imaging language source file"
+ },
+ {
+   "Type": ".plx",
+   "Language": "PiXCL Pixel Based Extendible Command Language script file"
+ },
+ {
+   "Type": ".pl1",
+   "Language": "PL/1 programming language source file"
+ },
+ {
+   "Type": ".plc",
+   "Language": "PL/B source code"
+ },
+ {
+   "Type": ".pli",
+   "Language": "PL/I program source code"
+ },
+ {
+   "Type": ".pl7",
+   "Language": "PL7-07 application file"
+ },
+ {
+   "Type": ".plac",
+   "Language": "plac script file"
+ },
+ {
+   "Type": ".pou",
+   "Language": "PLCEdit program organisation unit"
+ },
+ {
+   "Type": ".plog",
+   "Language": "PLog programming language file"
+ },
+ {
+   "Type": ".poc",
+   "Language": "Pocomail PocoScript file"
+ },
+ {
+   "Type": ".poix",
+   "Language": "Point of interest exchange file"
+ },
+ {
+   "Type": ".glf",
+   "Language": "Pointwise TCL script file"
+ },
+ {
+   "Type": ".pvs",
+   "Language": "PolyView slide show script"
+ },
+ {
+   "Type": ".po",
+   "Language": "Portable object"
+ },
+ {
+   "Type": ".pwo",
+   "Language": "Portable Website Object data"
+ },
+ {
+   "Type": ".ebuild",
+   "Language": "Portage eBuild script file"
+ },
+ {
+   "Type": ".mat",
+   "Language": "Poser 3D pose file"
+ },
+ {
+   "Type": ".mix",
+   "Language": "Power C object file"
+ },
+ {
+   "Type": ".hhh",
+   "Language": "Power C precompiled header file"
+ },
+ {
+   "Type": ".pdb",
+   "Language": "PowerBASIC debugger file"
+ },
+ {
+   "Type": ".dt",
+   "Language": "PowerBASIC file"
+ },
+ {
+   "Type": ".pbi",
+   "Language": "PowerBASIC include file"
+ },
+ {
+   "Type": ".pba",
+   "Language": "PowerBASIC language source code"
+ },
+ {
+   "Type": ".pbl",
+   "Language": "PowerBASIC library"
+ },
+ {
+   "Type": ".pbl",
+   "Language": "PowerBuilder source code library"
+ },
+ {
+   "Type": ".psl",
+   "Language": "PowerTerm script language file"
+ },
+ {
+   "Type": ".pgml",
+   "Language": "Precision Graphics Markup Language file format"
+ },
+ {
+   "Type": ".ii",
+   "Language": "Preprocessed C++ source code"
+ },
+ {
+   "Type": ".pde",
+   "Language": "Processing development environment source code file"
+ },
+ {
+   "Type": ".asp",
+   "Language": "Procomm Plus ASPect language script"
+ },
+ {
+   "Type": ".wax",
+   "Language": "ProComm Plus compiled script file"
+ },
+ {
+   "Type": ".was",
+   "Language": "ProComm source script"
+ },
+ {
+   "Type": ".prg",
+   "Language": "Program source data"
+ },
+ {
+   "Type": ".pdl",
+   "Language": "Programmable Driver Language file"
+ },
+ {
+   "Type": ".pnproj",
+   "Language": "Programmer's Notepad project file"
+ },
+ {
+   "Type": ".pnpt",
+   "Language": "Programmer's Notepad project template file"
+ },
+ {
+   "Type": ".bsm",
+   "Language": "Project file"
+ },
+ {
+   "Type": ".pjt",
+   "Language": "Project file (Rational Rose/Visual C++)"
+ },
+ {
+   "Type": ".pl",
+   "Language": "PROLOG language source code file"
+ },
+ {
+   "Type": ".prm",
+   "Language": "Prolog module file"
+ },
+ {
+   "Type": ".pro",
+   "Language": "Prolog programming language source code file"
+ },
+ {
+   "Type": ".msl",
+   "Language": "ProWORX Nxt MSL loadables file"
+ },
+ {
+   "Type": ".psu",
+   "Language": "PS2 YABASIC data"
+ },
+ {
+   "Type": ".psgi",
+   "Language": "PSGI script"
+ },
+ {
+   "Type": ".opt",
+   "Language": "Psion Organiser OPL source"
+ },
+ {
+   "Type": ".opx",
+   "Language": "Psion Organiser programming language"
+ },
+ {
+   "Type": ".tcz",
+   "Language": "PSTextMerge script"
+ },
+ {
+   "Type": ".ptb",
+   "Language": "PubTech BatchWorks script file"
+ },
+ {
+   "Type": ".pbq",
+   "Language": "PunkBuster query script"
+ },
+ {
+   "Type": ".pb",
+   "Language": "PureBasic source code"
+ },
+ {
+   "Type": ".vd",
+   "Language": "PwrDev visual designer project file"
+ },
+ {
+   "Type": ".pym",
+   "Language": "PYM Python preprocessor macro"
+ },
+ {
+   "Type": ".pxd",
+   "Language": "Pyrex definition file"
+ },
+ {
+   "Type": ".pxi",
+   "Language": "Pyrex header file"
+ },
+ {
+   "Type": ".pyx",
+   "Language": "Pyrex source code"
+ },
+ {
+   "Type": ".pyo",
+   "Language": "Python compiled code"
+ },
+ {
+   "Type": ".pyt",
+   "Language": "Python declaration data"
+ },
+ {
+   "Type": ".egg-info",
+   "Language": "Python Egg file"
+ },
+ {
+   "Type": ".epp",
+   "Language": "Python Egg file"
+ },
+ {
+   "Type": ".p4a",
+   "Language": "Python for Android script"
+ },
+ {
+   "Type": ".pyw",
+   "Language": "Python GUI source script"
+ },
+ {
+   "Type": ".p",
+   "Language": "Python module"
+ },
+ {
+   "Type": ".pickle",
+   "Language": "Python Pickle data"
+ },
+ {
+   "Type": ".re",
+   "Language": "Python Regular Expressions source code"
+ },
+ {
+   "Type": ".rpy",
+   "Language": "Python script"
+ },
+ {
+   "Type": ".py",
+   "Language": "Python script language source code"
+ },
+ {
+   "Type": ".ptl",
+   "Language": "Python template language data"
+ },
+ {
+   "Type": ".qdl",
+   "Language": "QDL source code file"
+ },
+ {
+   "Type": ".qvs",
+   "Language": "QlikView Script file"
+ },
+ {
+   "Type": ".qt3d",
+   "Language": "Qt 3D data"
+ },
+ {
+   "Type": ".qml",
+   "Language": "QT meta language file"
+ },
+ {
+   "Type": ".pri",
+   "Language": "Qt Project include file"
+ },
+ {
+   "Type": ".qs",
+   "Language": "Qt script file"
+ },
+ {
+   "Type": ".qpf",
+   "Language": "Quartus II project"
+ },
+ {
+   "Type": ".qxm",
+   "Language": "Quexal macro file"
+ },
+ {
+   "Type": ".qx",
+   "Language": "Quexal source code"
+ },
+ {
+   "Type": ".rprofile",
+   "Language": "Quick-R R programming language configuration file"
+ },
+ {
+   "Type": ".bms",
+   "Language": "QuickBMS script"
+ },
+ {
+   "Type": ".qlm",
+   "Language": "QuickField LabelMover script"
+ },
+ {
+   "Type": ".akp",
+   "Language": "QuickZip file"
+ },
+ {
+   "Type": ".jgs",
+   "Language": "QWS3270 PLUS script file"
+ },
+ {
+   "Type": ".r",
+   "Language": "R script"
+ },
+ {
+   "Type": ".rkt",
+   "Language": "Racket information module file"
+ },
+ {
+   "Type": ".rtk",
+   "Language": "Racket source code file"
+ },
+ {
+   "Type": ".ridl",
+   "Language": "RAD Studio Active X RIDL data"
+ },
+ {
+   "Type": ".tgproj",
+   "Language": "RAD Studio design project"
+ },
+ {
+   "Type": ".h5bprj",
+   "Language": "RAD Studio HTML5 Builder project"
+ },
+ {
+   "Type": ".prg",
+   "Language": "RAPID program"
+ },
+ {
+   "Type": ".rqb",
+   "Language": "RapidQ quellcode file"
+ },
+ {
+   "Type": ".epj",
+   "Language": "RapidSQL SCCS project"
+ },
+ {
+   "Type": ".rsp",
+   "Language": "Rapport script file"
+ },
+ {
+   "Type": ".ebx",
+   "Language": "Rational Rose 98 compiled script"
+ },
+ {
+   "Type": ".trig",
+   "Language": "RDF serialization format"
+ },
+ {
+   "Type": ".rbvcp",
+   "Language": "Real Studio project file"
+ },
+ {
+   "Type": ".rguninst",
+   "Language": "RealArcade uninstall script file"
+ },
+ {
+   "Type": ".rbp",
+   "Language": "REALbasic project file"
+ },
+ {
+   "Type": ".rb",
+   "Language": "REALbasic project file"
+ },
+ {
+   "Type": ".rfs",
+   "Language": "RealFlow script file"
+ },
+ {
+   "Type": ".rss",
+   "Language": "Really Simple Syndication - RSS file format"
+ },
+ {
+   "Type": ".rpj",
+   "Language": "RealPlayer JavaScript file"
+ },
+ {
+   "Type": ".reb",
+   "Language": "REBOL script file"
+ },
+ {
+   "Type": ".textile",
+   "Language": "RedCloth script"
+ },
+ {
+   "Type": ".rml",
+   "Language": "Redline Markup Language source"
+ },
+ {
+   "Type": ".rng",
+   "Language": "RELAX NG source code file"
+ },
+ {
+   "Type": ".rpyc",
+   "Language": "Ren'Py game engine compiled script"
+ },
+ {
+   "Type": ".rpym",
+   "Language": "Ren'Py module data"
+ },
+ {
+   "Type": ".mscr",
+   "Language": "Rename Master scrip file"
+ },
+ {
+   "Type": ".ba_",
+   "Language": "Renamed BAT file"
+ },
+ {
+   "Type": ".rdf",
+   "Language": "Resource Description Framework RSS feed"
+ },
+ {
+   "Type": ".rcc",
+   "Language": "Resource script"
+ },
+ {
+   "Type": ".rts",
+   "Language": "Resource Tuner Console script"
+ },
+ {
+   "Type": ".ror",
+   "Language": "Resources of a Resource file"
+ },
+ {
+   "Type": ".rex",
+   "Language": "Rexx language source code"
+ },
+ {
+   "Type": ".rexx",
+   "Language": "Rexx language source code file"
+ },
+ {
+   "Type": ".exc",
+   "Language": "Rexx language source code file"
+ },
+ {
+   "Type": ".rvb",
+   "Language": "Rhinoceros 3D Visual Basic script file"
+ },
+ {
+   "Type": ".bhs",
+   "Language": "Rise of Nations script"
+ },
+ {
+   "Type": ".irobo",
+   "Language": "RoboMind source code"
+ },
+ {
+   "Type": ".robo",
+   "Language": "RoboMind source code file"
+ },
+ {
+   "Type": ".robo",
+   "Language": "RoboRealm robo script"
+ },
+ {
+   "Type": ".wsd",
+   "Language": "RoboSoft script file"
+ },
+ {
+   "Type": ".rsl",
+   "Language": "Robot Scripting Language file"
+ },
+ {
+   "Type": ".rss",
+   "Language": "Rockwell Logix 500 SLC-5 software data"
+ },
+ {
+   "Type": ".prg",
+   "Language": "RPG Toolkit program script"
+ },
+ {
+   "Type": ".rpp",
+   "Language": "RPP script"
+ },
+ {
+   "Type": ".rxs",
+   "Language": "RSIGuard RSIScript file"
+ },
+ {
+   "Type": ".rpres",
+   "Language": "RStudio presentation"
+ },
+ {
+   "Type": ".rproj",
+   "Language": "RStudio project"
+ },
+ {
+   "Type": ".capfile",
+   "Language": "Ruby Capistrano instruction file"
+ },
+ {
+   "Type": ".rbw",
+   "Language": "Ruby file"
+ },
+ {
+   "Type": ".irbrc",
+   "Language": "Ruby file"
+ },
+ {
+   "Type": ".rhtml",
+   "Language": "Ruby HTML web page file"
+ },
+ {
+   "Type": ".rake",
+   "Language": "Ruby makefile"
+ },
+ {
+   "Type": ".rakefile",
+   "Language": "Ruby makefile"
+ },
+ {
+   "Type": ".rb",
+   "Language": "Ruby on Rails class"
+ },
+ {
+   "Type": ".rbx",
+   "Language": "Ruby programming language source code file"
+ },
+ {
+   "Type": ".gemfile",
+   "Language": "Ruby RubyGems file"
+ },
+ {
+   "Type": ".rb",
+   "Language": "Ruby script"
+ },
+ {
+   "Type": ".radius",
+   "Language": "Ruby-Radius scipt file"
+ },
+ {
+   "Type": ".rdoc",
+   "Language": "RubyDoc script"
+ },
+ {
+   "Type": ".rtml",
+   "Language": "Runeberg Text Markup Language document"
+ },
+ {
+   "Type": ".irev",
+   "Language": "Runtime Revolution script file"
+ },
+ {
+   "Type": ".rs",
+   "Language": "Rust source code"
+ },
+ {
+   "Type": ".sl",
+   "Language": "S-Lang language source code"
+ },
+ {
+   "Type": ".dmc",
+   "Language": "Sage Medical Manager script file"
+ },
+ {
+   "Type": ".es",
+   "Language": "SageCRM script file"
+ },
+ {
+   "Type": ".ss",
+   "Language": "Sam Spade script file"
+ },
+ {
+   "Type": ".sl",
+   "Language": "Sam Spade startup script"
+ },
+ {
+   "Type": ".shfbproj",
+   "Language": "Sandcastle Help File Builder project"
+ },
+ {
+   "Type": ".shfb",
+   "Language": "Sandcastle Help File Builder project"
+ },
+ {
+   "Type": ".sscs",
+   "Language": "Saropa Smart Copy script file"
+ },
+ {
+   "Type": ".sas",
+   "Language": "SAS source code"
+ },
+ {
+   "Type": ".sxs",
+   "Language": "SAS Stat Studio module source code file"
+ },
+ {
+   "Type": ".saas",
+   "Language": "Sass Indented Syntax file"
+ },
+ {
+   "Type": ".scb",
+   "Language": "Scala InfoChannel published script"
+ },
+ {
+   "Type": ".sca",
+   "Language": "Scala InfoChannel script"
+ },
+ {
+   "Type": ".scala",
+   "Language": "Scala source file"
+ },
+ {
+   "Type": ".scp",
+   "Language": "SCAR Divi macro script file"
+ },
+ {
+   "Type": ".scar",
+   "Language": "SCAR script file"
+ },
+ {
+   "Type": ".fasl",
+   "Language": "Scheme file"
+ },
+ {
+   "Type": ".smd",
+   "Language": "Scheme file"
+ },
+ {
+   "Type": ".scm",
+   "Language": "Scheme language source code file"
+ },
+ {
+   "Type": ".ss",
+   "Language": "Scheme source code"
+ },
+ {
+   "Type": ".lap",
+   "Language": "Scheme source code"
+ },
+ {
+   "Type": ".mfps",
+   "Language": "Scientific Calculator Plus script file"
+ },
+ {
+   "Type": ".sci",
+   "Language": "Scilab script"
+ },
+ {
+   "Type": ".sce",
+   "Language": "Scilab source code"
+ },
+ {
+   "Type": ".sconstruct",
+   "Language": "SCons makefile"
+ },
+ {
+   "Type": ".scr",
+   "Language": "Script"
+ },
+ {
+   "Type": ".m",
+   "Language": "Script file (Miranda IM language)"
+ },
+ {
+   "Type": ".par",
+   "Language": "Script particles file"
+ },
+ {
+   "Type": ".bbf",
+   "Language": "ScriptBasic binary data"
+ },
+ {
+   "Type": ".sm",
+   "Language": "ScriptMaker script file"
+ },
+ {
+   "Type": ".seam",
+   "Language": "Seam Framework JAVA servlet file"
+ },
+ {
+   "Type": ".sax",
+   "Language": "Sedona Framework XML application"
+ },
+ {
+   "Type": ".sfx",
+   "Language": "Self-extracting compressed archive"
+ },
+ {
+   "Type": ".xda",
+   "Language": "Sencha Architect project file"
+ },
+ {
+   "Type": ".map",
+   "Language": "Server side image map"
+ },
+ {
+   "Type": ".mscr",
+   "Language": "ServiceMon script file"
+ },
+ {
+   "Type": ".sbi",
+   "Language": "SetupBuilder include script file"
+ },
+ {
+   "Type": ".sfm",
+   "Language": "SF programming language main source code file"
+ },
+ {
+   "Type": ".sfp",
+   "Language": "SF programming language processed source code file"
+ },
+ {
+   "Type": ".sfr",
+   "Language": "SF programming language repository file"
+ },
+ {
+   "Type": ".sf",
+   "Language": "SF programming language source code file"
+ },
+ {
+   "Type": ".sfl",
+   "Language": "SF programming language source code library file"
+ },
+ {
+   "Type": ".wsc",
+   "Language": "SGML Standard Generalized Markup Language file"
+ },
+ {
+   "Type": ".liquid",
+   "Language": "Shopify Liquid template file"
+ },
+ {
+   "Type": ".s5d",
+   "Language": "Siemens Step 5 source code file"
+ },
+ {
+   "Type": ".pgm",
+   "Language": "Signature program"
+ },
+ {
+   "Type": ".bdh",
+   "Language": "Silk Performer include file"
+ },
+ {
+   "Type": ".ss",
+   "Language": "SilverStripe source code"
+ },
+ {
+   "Type": ".bmo",
+   "Language": "SIMATIC WinCC script file"
+ },
+ {
+   "Type": ".pas",
+   "Language": "SIMATIC WinCC script file"
+ },
+ {
+   "Type": ".simba",
+   "Language": "Simba script"
+ },
+ {
+   "Type": ".cmp",
+   "Language": "SimCreator script file"
+ },
+ {
+   "Type": ".usp",
+   "Language": "SIMPL Windows source code"
+ },
+ {
+   "Type": ".smw",
+   "Language": "SIMPL Windows source file"
+ },
+ {
+   "Type": ".simple",
+   "Language": "Simple Compiler source code file"
+ },
+ {
+   "Type": ".sml",
+   "Language": "Simple Markup Language file"
+ },
+ {
+   "Type": ".svc",
+   "Language": "Simple Visual Compiler file"
+ },
+ {
+   "Type": ".mlsxml",
+   "Language": "Skype XML data"
+ },
+ {
+   "Type": ".slackbuild",
+   "Language": "Slackware Linux script file"
+ },
+ {
+   "Type": ".sls",
+   "Language": "Slide Show Studio script"
+ },
+ {
+   "Type": ".tcl",
+   "Language": "SLIDE: Scene Language for Interactive Dynamic Environments file"
+ },
+ {
+   "Type": ".slim",
+   "Language": "Slim script"
+ },
+ {
+   "Type": ".tokend",
+   "Language": "Smart Card support mac file type"
+ },
+ {
+   "Type": ".ary",
+   "Language": "SmartStart scripting toolkit data"
+ },
+ {
+   "Type": ".pf3",
+   "Language": "SmartWare project source code"
+ },
+ {
+   "Type": ".pf1",
+   "Language": "SmartWare project source code"
+ },
+ {
+   "Type": ".pf2",
+   "Language": "SmartWare project source code"
+ },
+ {
+   "Type": ".pf0",
+   "Language": "SmartWare project source code file"
+ },
+ {
+   "Type": ".pf4",
+   "Language": "SmartWare project source code file"
+ },
+ {
+   "Type": ".pf?",
+   "Language": "SmartWare project source file"
+ },
+ {
+   "Type": ".sml",
+   "Language": "SMIL Synchronized Multimedia Integration Language file"
+ },
+ {
+   "Type": ".smx",
+   "Language": "SMX file"
+ },
+ {
+   "Type": ".snapx",
+   "Language": "Snapform XML form"
+ },
+ {
+   "Type": ".sno",
+   "Language": "Snobol4 language source code"
+ },
+ {
+   "Type": ".#NAME?",
+   "Language": "Sort by: File type description"
+ },
+ {
+   "Type": ".#NAME?",
+   "Language": "Sort by: File type description"
+ },
+ {
+   "Type": ".#NAME?",
+   "Language": "Sort by: File type description"
+ },
+ {
+   "Type": ".sjc",
+   "Language": "Sothink JavaScript Web Scroller definition file"
+ },
+ {
+   "Type": ".gla",
+   "Language": "Sothink SWF Easy project"
+ },
+ {
+   "Type": ".s",
+   "Language": "Source code"
+ },
+ {
+   "Type": ".src",
+   "Language": "Source resource string file"
+ },
+ {
+   "Type": ".ssml",
+   "Language": "Speech Synthesis Markup Language source file"
+ },
+ {
+   "Type": ".h--",
+   "Language": "Sphinx C-- header file"
+ },
+ {
+   "Type": ".c--",
+   "Language": "Sphinx C-- language source code"
+ },
+ {
+   "Type": ".s2s",
+   "Language": "Spike2 script file"
+ },
+ {
+   "Type": ".spt",
+   "Language": "Spitbol language source code file"
+ },
+ {
+   "Type": ".sbs",
+   "Language": "SPSS script file"
+ },
+ {
+   "Type": ".sdsb",
+   "Language": "Spybot compiled script"
+ },
+ {
+   "Type": ".sal",
+   "Language": "SQL Application Language source code"
+ },
+ {
+   "Type": ".udf",
+   "Language": "SQL user defined function script file"
+ },
+ {
+   "Type": ".image",
+   "Language": "Squeak code file"
+ },
+ {
+   "Type": ".sqo",
+   "Language": "Squeak object"
+ },
+ {
+   "Type": ".sar",
+   "Language": "Squeak package file"
+ },
+ {
+   "Type": ".slogo",
+   "Language": "StarLogo programming project file"
+ },
+ {
+   "Type": ".slogt",
+   "Language": "StarLogo template file"
+ },
+ {
+   "Type": ".sltng",
+   "Language": "StarLogo TNG project file"
+ },
+ {
+   "Type": ".hbx",
+   "Language": "StarMoney macro file"
+ },
+ {
+   "Type": ".hbz",
+   "Language": "StarMoney macro file"
+ },
+ {
+   "Type": ".cbq",
+   "Language": "StarOS script file"
+ },
+ {
+   "Type": ".startlet",
+   "Language": "Start++ script"
+ },
+ {
+   "Type": ".svo",
+   "Language": "STATISTICA macro"
+ },
+ {
+   "Type": ".svx",
+   "Language": "Statistica macro file"
+ },
+ {
+   "Type": ".aro",
+   "Language": "SteelArrow script file"
+ },
+ {
+   "Type": ".ssc",
+   "Language": "Stellarium script file"
+ },
+ {
+   "Type": ".smw",
+   "Language": "Stenn Media web script"
+ },
+ {
+   "Type": ".mwp",
+   "Language": "STEP7-Micro WIN program"
+ },
+ {
+   "Type": ".sas",
+   "Language": "StreamAction script"
+ },
+ {
+   "Type": ".stuffit11task",
+   "Language": "StuffIt scheduler task"
+ },
+ {
+   "Type": ".styl",
+   "Language": "Stylus CSS script"
+ },
+ {
+   "Type": ".ocr",
+   "Language": "Subtitle Workshop script file"
+ },
+ {
+   "Type": ".sjs",
+   "Language": "Sugar script file"
+ },
+ {
+   "Type": ".sc",
+   "Language": "SuperCollider source code file"
+ },
+ {
+   "Type": ".swg",
+   "Language": "SWAG Pascal Snippets (SWAG Reader)"
+ },
+ {
+   "Type": ".rnw",
+   "Language": "Sweave source file"
+ },
+ {
+   "Type": ".vdt",
+   "Language": "Swiftview imaging command set"
+ },
+ {
+   "Type": ".sami",
+   "Language": "Synchronized Accessible Media Interchange file format"
+ },
+ {
+   "Type": ".smi",
+   "Language": "Synchronized Multimedia Integration Language presentation file"
+ },
+ {
+   "Type": ".sjava",
+   "Language": "Synchronous Java source code file"
+ },
+ {
+   "Type": ".m4x",
+   "Language": "SynDEx file"
+ },
+ {
+   "Type": ".sus",
+   "Language": "Synergy Accounts update script"
+ },
+ {
+   "Type": ".sass",
+   "Language": "Syntactically Awesome Stylesheets indented syntax data"
+ },
+ {
+   "Type": ".scss",
+   "Language": "Syntactically Awesome Stylesheets syntax data"
+ },
+ {
+   "Type": ".synw-proj",
+   "Language": "SynWrite project"
+ },
+ {
+   "Type": ".syp",
+   "Language": "SYP source file"
+ },
+ {
+   "Type": ".sbml",
+   "Language": "Systems Biology Markup Language source file"
+ },
+ {
+   "Type": ".t",
+   "Language": "Tads source file"
+ },
+ {
+   "Type": ".tld",
+   "Language": "Tag Library Descriptor file"
+ },
+ {
+   "Type": ".tst",
+   "Language": "TagScanner text transform script file"
+ },
+ {
+   "Type": ".tcl",
+   "Language": "TCL script source code"
+ },
+ {
+   "Type": ".tea",
+   "Language": "Tea source or script file"
+ },
+ {
+   "Type": ".trt",
+   "Language": "Team Sports Scheduling System report template"
+ },
+ {
+   "Type": ".tgml",
+   "Language": "Tecumseh Group Markup Language source code"
+ },
+ {
+   "Type": ".rip",
+   "Language": "Telegrafx Remote Imaging Protocol"
+ },
+ {
+   "Type": ".slt",
+   "Language": "Telix Salt Script Application Language script source"
+ },
+ {
+   "Type": ".sim",
+   "Language": "Telix simple script source file"
+ },
+ {
+   "Type": ".ttl",
+   "Language": "Tera Term macro"
+ },
+ {
+   "Type": ".btq",
+   "Language": "Teradata Database query script"
+ },
+ {
+   "Type": ".tcx",
+   "Language": "TestComplete script extension"
+ },
+ {
+   "Type": ".89x",
+   "Language": "Texas Instruments TI-89 macro file"
+ },
+ {
+   "Type": ".texinfo",
+   "Language": "Texinfo source data"
+ },
+ {
+   "Type": ".tpm",
+   "Language": "TextPad macro file"
+ },
+ {
+   "Type": ".rpg",
+   "Language": "The RPG programming language source code"
+ },
+ {
+   "Type": ".tla",
+   "Language": "The Temporal Logic of Actions data"
+ },
+ {
+   "Type": ".tbasic",
+   "Language": "thinBasic script"
+ },
+ {
+   "Type": ".tbasicc",
+   "Language": "thinBasic script"
+ },
+ {
+   "Type": ".tbasicx",
+   "Language": "thinBasic script"
+ },
+ {
+   "Type": ".tatxtt",
+   "Language": "thinBasic template"
+ },
+ {
+   "Type": ".thor",
+   "Language": "Thor source code"
+ },
+ {
+   "Type": ".thtml",
+   "Language": "THTML file"
+ },
+ {
+   "Type": ".8xk",
+   "Language": "TI-82 Plus application file"
+ },
+ {
+   "Type": ".92x",
+   "Language": "TI-92 macro"
+ },
+ {
+   "Type": ".tiprogram",
+   "Language": "TI-Basic source code"
+ },
+ {
+   "Type": ".tpr",
+   "Language": "TIGCC IDE project file"
+ },
+ {
+   "Type": ".ti",
+   "Language": "Timber compiler"
+ },
+ {
+   "Type": ".t",
+   "Language": "Timber compiler source code"
+ },
+ {
+   "Type": ".tcz",
+   "Language": "Tiny Core Linux script file"
+ },
+ {
+   "Type": ".ts0",
+   "Language": "tio32 script file"
+ },
+ {
+   "Type": ".tk",
+   "Language": "Tk language script"
+ },
+ {
+   "Type": ".tom",
+   "Language": "Tom source code"
+ },
+ {
+   "Type": ".toml",
+   "Language": "TOML source code"
+ },
+ {
+   "Type": ".cs",
+   "Language": "Torque game engine script file"
+ },
+ {
+   "Type": ".cvsrc",
+   "Language": "TortoiseCVS CVS command file"
+ },
+ {
+   "Type": ".tmh",
+   "Language": "Trace message header"
+ },
+ {
+   "Type": ".lay",
+   "Language": "Track Builder simulation compiler code"
+ },
+ {
+   "Type": ".eld",
+   "Language": "TradeStation EasyLanguage document"
+ },
+ {
+   "Type": ".tal",
+   "Language": "Transaction Application Language source code"
+ },
+ {
+   "Type": ".tlv",
+   "Language": "Transaction-Level Verilog files"
+ },
+ {
+   "Type": ".xscscpt",
+   "Language": "Transcribe! script"
+ },
+ {
+   "Type": ".gcob",
+   "Language": "TRANSFER Cobol source code"
+ },
+ {
+   "Type": ".tql",
+   "Language": "Tree Query Language file"
+ },
+ {
+   "Type": ".ccs",
+   "Language": "TrialDirector clip script"
+ },
+ {
+   "Type": ".triple-s",
+   "Language": "Triple-S Surveying file format file"
+ },
+ {
+   "Type": ".tra",
+   "Language": "True BASIC applet"
+ },
+ {
+   "Type": ".tru",
+   "Language": "True Basic source"
+ },
+ {
+   "Type": ".ttcn",
+   "Language": "TTCN-3 script file"
+ },
+ {
+   "Type": ".tzs",
+   "Language": "TUGZip script file"
+ },
+ {
+   "Type": ".ash",
+   "Language": "Turbo Assembler (TASM) header"
+ },
+ {
+   "Type": ".aso",
+   "Language": "Turbo Assembler object file"
+ },
+ {
+   "Type": ".cfo",
+   "Language": "Turbo C utilities C form object file"
+ },
+ {
+   "Type": ".tpx",
+   "Language": "Turbo Pascal unit file"
+ },
+ {
+   "Type": ".bxl",
+   "Language": "Turbo-Basic XL data"
+ },
+ {
+   "Type": ".abs",
+   "Language": "TurboZIP script file"
+ },
+ {
+   "Type": ".trs",
+   "Language": "TURBU Editor RPG script file"
+ },
+ {
+   "Type": ".ti",
+   "Language": "Turing include data"
+ },
+ {
+   "Type": ".tur",
+   "Language": "Turing program source code file"
+ },
+ {
+   "Type": ".t",
+   "Language": "Turing programming language file"
+ },
+ {
+   "Type": ".tu",
+   "Language": "Turing source code file"
+ },
+ {
+   "Type": ".twig",
+   "Language": "Twig source data"
+ },
+ {
+   "Type": ".txl",
+   "Language": "TXL programming language source code"
+ },
+ {
+   "Type": ".txc",
+   "Language": "txtCompiler script file"
+ },
+ {
+   "Type": ".tal",
+   "Language": "Typed Assembly Language file"
+ },
+ {
+   "Type": ".tlh",
+   "Language": "Typelib generated C/C++ header file"
+ },
+ {
+   "Type": ".tli",
+   "Language": "Typelib generated C/C++ inline data"
+ },
+ {
+   "Type": ".uit",
+   "Language": "UIX XML template"
+ },
+ {
+   "Type": ".uix",
+   "Language": "uiXML page file"
+ },
+ {
+   "Type": ".uem",
+   "Language": "UltraEdit macro source code"
+ },
+ {
+   "Type": ".ump",
+   "Language": "UModel project file"
+ },
+ {
+   "Type": ".ufdl",
+   "Language": "Universal Forms Description Language file"
+ },
+ {
+   "Type": ".gus",
+   "Language": "Universal Score Poster script file"
+ },
+ {
+   "Type": ".sh",
+   "Language": "Unix Bourne Shell (Bash) script"
+ },
+ {
+   "Type": ".login",
+   "Language": "UNIX command data"
+ },
+ {
+   "Type": ".cshrc",
+   "Language": "UNIX command file"
+ },
+ {
+   "Type": ".netboot",
+   "Language": "Unix netboot script file"
+ },
+ {
+   "Type": ".common",
+   "Language": "Unix script"
+ },
+ {
+   "Type": ".run",
+   "Language": "UNIX Shell Installer installation archive"
+ },
+ {
+   "Type": ".ksh",
+   "Language": "Unix shell script"
+ },
+ {
+   "Type": ".zsh",
+   "Language": "Unix shell script"
+ },
+ {
+   "Type": ".bash",
+   "Language": "Unix Shell Script (bash)"
+ },
+ {
+   "Type": ".tcsh",
+   "Language": "Unix shell script file"
+ },
+ {
+   "Type": ".unx",
+   "Language": "UNIX specific makefile"
+ },
+ {
+   "Type": ".ucb",
+   "Language": "Unstoppable Copier batch file"
+ },
+ {
+   "Type": ".h++",
+   "Language": "Unusual C++ header file"
+ },
+ {
+   "Type": ".usi",
+   "Language": "UsiXML UI description file"
+ },
+ {
+   "Type": ".des",
+   "Language": "V+ Visual Development System design file"
+ },
+ {
+   "Type": ".v",
+   "Language": "V++ VPascal source code"
+ },
+ {
+   "Type": ".vad",
+   "Language": "Vadera Enterprises PHP file"
+ },
+ {
+   "Type": ".vala",
+   "Language": "Vala programming language source code"
+ },
+ {
+   "Type": ".fgb",
+   "Language": "Valve SDK source file"
+ },
+ {
+   "Type": ".csf",
+   "Language": "VanDyke SecureCRT script file"
+ },
+ {
+   "Type": ".sps",
+   "Language": "VAX/VMS source code"
+ },
+ {
+   "Type": ".vdm",
+   "Language": "VDM specification file"
+ },
+ {
+   "Type": ".vss",
+   "Language": "VectorWorks VectorScript file"
+ },
+ {
+   "Type": ".vc",
+   "Language": "Verge code file"
+ },
+ {
+   "Type": ".v",
+   "Language": "Verilog source code file"
+ },
+ {
+   "Type": ".vim",
+   "Language": "Vim script"
+ },
+ {
+   "Type": ".vpi",
+   "Language": "Virtual Pascal OS/2 unit data"
+ },
+ {
+   "Type": ".ghc",
+   "Language": "Visual Basic constant map file"
+ },
+ {
+   "Type": ".ctl",
+   "Language": "Visual Basic control data (Active X control data)"
+ },
+ {
+   "Type": ".vbe",
+   "Language": "Visual Basic encoded script"
+ },
+ {
+   "Type": ".pag",
+   "Language": "Visual Basic property PAGe file"
+ },
+ {
+   "Type": ".vbs",
+   "Language": "Visual Basic script"
+ },
+ {
+   "Type": ".vbscript",
+   "Language": "Visual Basic script"
+ },
+ {
+   "Type": ".swt",
+   "Language": "Visual Basic setup wizard template"
+ },
+ {
+   "Type": ".vba",
+   "Language": "Visual Basic VBA module"
+ },
+ {
+   "Type": ".vcwin32",
+   "Language": "Visual C make file"
+ },
+ {
+   "Type": ".rc3",
+   "Language": "Visual C resource file"
+ },
+ {
+   "Type": ".vc6",
+   "Language": "Visual C++ make file"
+ },
+ {
+   "Type": ".odl",
+   "Language": "Visual C++ ODL type library source"
+ },
+ {
+   "Type": ".rule",
+   "Language": "Visual C++ project rules"
+ },
+ {
+   "Type": ".vup",
+   "Language": "Visual C++ utility project"
+ },
+ {
+   "Type": ".ccs",
+   "Language": "Visual CCScript script file"
+ },
+ {
+   "Type": ".vce",
+   "Language": "Visual CE class type file"
+ },
+ {
+   "Type": ".pjt",
+   "Language": "Visual FoxPro associated memo file"
+ },
+ {
+   "Type": ".pjx",
+   "Language": "Visual FoxPro project"
+ },
+ {
+   "Type": ".vls",
+   "Language": "Visual Localize script"
+ },
+ {
+   "Type": ".vps",
+   "Language": "Visual Pinball script"
+ },
+ {
+   "Type": ".vrm",
+   "Language": "Visual REXX language source code file"
+ },
+ {
+   "Type": ".acm",
+   "Language": "Visual SourceSafe modules file"
+ },
+ {
+   "Type": ".cd",
+   "Language": "Visual Studio class diagram file"
+ },
+ {
+   "Type": ".vssscc",
+   "Language": "Visual Studio solution source control file"
+ },
+ {
+   "Type": ".idl",
+   "Language": "Visual Studio Visual C++ interface definition library"
+ },
+ {
+   "Type": ".mst",
+   "Language": "Visual Test source file"
+ },
+ {
+   "Type": ".v3s",
+   "Language": "Visual3D pipeline file"
+ },
+ {
+   "Type": ".pql",
+   "Language": "VisualPQL source code"
+ },
+ {
+   "Type": ".vpc",
+   "Language": "ViziGen source code"
+ },
+ {
+   "Type": ".vgc",
+   "Language": "ViziGen source code"
+ },
+ {
+   "Type": ".vic",
+   "Language": "ViziGen source code file"
+ },
+ {
+   "Type": ".vxml",
+   "Language": "VoiceXML source file"
+ },
+ {
+   "Type": ".vpl",
+   "Language": "vplot source code"
+ },
+ {
+   "Type": ".wscript",
+   "Language": "Waf script"
+ },
+ {
+   "Type": ".wpj",
+   "Language": "Watcom C/C++ project"
+ },
+ {
+   "Type": ".vrp",
+   "Language": "Watcom VXRexx project file"
+ },
+ {
+   "Type": ".h2o",
+   "Language": "Water web program file"
+ },
+ {
+   "Type": ".owl",
+   "Language": "Web Ontology Language file"
+ },
+ {
+   "Type": ".wam",
+   "Language": "WebAction macro file"
+ },
+ {
+   "Type": ".woa",
+   "Language": "WebObjects script file"
+ },
+ {
+   "Type": ".wml",
+   "Language": "Website META language file"
+ },
+ {
+   "Type": ".wspd",
+   "Language": "WebsitePainter for Mac project"
+ },
+ {
+   "Type": ".wch",
+   "Language": "WellCAD header file"
+ },
+ {
+   "Type": ".wiki",
+   "Language": "Wiki markup source code"
+ },
+ {
+   "Type": ".f",
+   "Language": "Win32Forth source code"
+ },
+ {
+   "Type": ".maki",
+   "Language": "Winamp MAKI compiled script"
+ },
+ {
+   "Type": ".mi",
+   "Language": "Winamp MAKI scripting library"
+ },
+ {
+   "Type": ".wbc",
+   "Language": "WinBatch encoded script"
+ },
+ {
+   "Type": ".wbt",
+   "Language": "WinBatch script"
+ },
+ {
+   "Type": ".wbs",
+   "Language": "WinBot IRC bot script file"
+ },
+ {
+   "Type": ".wdi",
+   "Language": "WINDEV component description file"
+ },
+ {
+   "Type": ".wdk",
+   "Language": "WINDEV component file"
+ },
+ {
+   "Type": ".wdw",
+   "Language": "WINDEV window file"
+ },
+ {
+   "Type": ".mst",
+   "Language": "Windows Installer transform script"
+ },
+ {
+   "Type": ".nt",
+   "Language": "Windows NT command script"
+ },
+ {
+   "Type": ".msh1xml",
+   "Language": "Windows Power Shell script file"
+ },
+ {
+   "Type": ".ps1",
+   "Language": "Windows PowerShell cmdlet script"
+ },
+ {
+   "Type": ".ps2xml",
+   "Language": "Windows PowerShell file"
+ },
+ {
+   "Type": ".msh2xml",
+   "Language": "Windows PowerShell script file"
+ },
+ {
+   "Type": ".wsf",
+   "Language": "Windows Script file"
+ },
+ {
+   "Type": ".appxmanifest",
+   "Language": "Windows Store app source manifest file"
+ },
+ {
+   "Type": ".scz",
+   "Language": "Wingz script file"
+ },
+ {
+   "Type": ".rob",
+   "Language": "Wintask compiled program"
+ },
+ {
+   "Type": ".scr",
+   "Language": "Wintask uncompiled program file"
+ },
+ {
+   "Type": ".wix",
+   "Language": "wIntegrate compiled script file"
+ },
+ {
+   "Type": ".wmlsc",
+   "Language": "Wireless Markup Language (WAP) bytecode script file"
+ },
+ {
+   "Type": ".wmlc",
+   "Language": "Wireless Markup Language bytecode document (WAP)"
+ },
+ {
+   "Type": ".wml",
+   "Language": "Wireless Markup Language document (WAP)"
+ },
+ {
+   "Type": ".wmls",
+   "Language": "Wireless Markup Language script file (WAP)"
+ },
+ {
+   "Type": ".wxi",
+   "Language": "WiX include data"
+ },
+ {
+   "Type": ".wxl",
+   "Language": "WiX localization data"
+ },
+ {
+   "Type": ".wxs",
+   "Language": "WiX source data"
+ },
+ {
+   "Type": ".wixout",
+   "Language": "WiX XML output file"
+ },
+ {
+   "Type": ".wli",
+   "Language": "WL intermediate data"
+ },
+ {
+   "Type": ".dsb",
+   "Language": "WonderShare DVD Slideshow Builder project"
+ },
+ {
+   "Type": ".wdl",
+   "Language": "World definition language script"
+ },
+ {
+   "Type": ".wx",
+   "Language": "wxBasic programming language file format"
+ },
+ {
+   "Type": ".fbp",
+   "Language": "wxFormBuilder project"
+ },
+ {
+   "Type": ".xrc",
+   "Language": "wxWidgets wxPython resource file"
+ },
+ {
+   "Type": ".tml",
+   "Language": "WZ Editor document or macro file format"
+ },
+ {
+   "Type": ".ssc",
+   "Language": "Xaira script file"
+ },
+ {
+   "Type": ".xbap",
+   "Language": "XAML Browser Application"
+ },
+ {
+   "Type": ".x",
+   "Language": "XBLite program file"
+ },
+ {
+   "Type": ".xbl",
+   "Language": "XBLite source code file"
+ },
+ {
+   "Type": ".xl",
+   "Language": "XBLite source code file"
+ },
+ {
+   "Type": ".xui",
+   "Language": "Xbox 360 skin file"
+ },
+ {
+   "Type": ".xap",
+   "Language": "Xbox dashboard script file"
+ },
+ {
+   "Type": ".cp",
+   "Language": "Xcode C++ source code"
+ },
+ {
+   "Type": ".mom",
+   "Language": "Xcode compiled core database data model file format"
+ },
+ {
+   "Type": ".l",
+   "Language": "Xcode core Lex program file"
+ },
+ {
+   "Type": ".y",
+   "Language": "Xcode core yacc program"
+ },
+ {
+   "Type": ".ipf",
+   "Language": "Xilinx iMPACT project"
+ },
+ {
+   "Type": ".tdo",
+   "Language": "Xilinx text design output data"
+ },
+ {
+   "Type": ".xje",
+   "Language": "XJEase source code"
+ },
+ {
+   "Type": ".xcp",
+   "Language": "XLNT script command"
+ },
+ {
+   "Type": ".xml",
+   "Language": "XML document"
+ },
+ {
+   "Type": ".xsl",
+   "Language": "XML eXtensible stylesheet"
+ },
+ {
+   "Type": ".xmla",
+   "Language": "XML for Analysis source file"
+ },
+ {
+   "Type": ".xig",
+   "Language": "XML Instance Generator file"
+ },
+ {
+   "Type": ".xml-log",
+   "Language": "XML log"
+ },
+ {
+   "Type": ".itmx",
+   "Language": "XML Model Interchange Language file"
+ },
+ {
+   "Type": ".xpdl",
+   "Language": "XML Process Definition Language data"
+ },
+ {
+   "Type": ".xqr",
+   "Language": "XML Query Language for DB2 file"
+ },
+ {
+   "Type": ".xsd",
+   "Language": "XML schema description"
+ },
+ {
+   "Type": ".tilemap",
+   "Language": "XML tilemap format"
+ },
+ {
+   "Type": ".fxh",
+   "Language": "XNA Game Studio HLSL header"
+ },
+ {
+   "Type": ".xbs",
+   "Language": "XnView script"
+ },
+ {
+   "Type": ".xojo_binary_project",
+   "Language": "Xojo binary project file"
+ },
+ {
+   "Type": ".xojo_project",
+   "Language": "Xojo programming project file"
+ },
+ {
+   "Type": ".xojo_xml_project",
+   "Language": "Xojo XML project"
+ },
+ {
+   "Type": ".c3p",
+   "Language": "XPanel project"
+ },
+ {
+   "Type": ".xpb",
+   "Language": "XPB! Basic source code file"
+ },
+ {
+   "Type": ".xslt",
+   "Language": "XSL transform data"
+ },
+ {
+   "Type": ".xtxt",
+   "Language": "Xtext file"
+ },
+ {
+   "Type": ".seman",
+   "Language": "Xtext semantics file"
+ },
+ {
+   "Type": ".xcl",
+   "Language": "XTree for Windows script"
+ },
+ {
+   "Type": ".xsc",
+   "Language": "XVI32 script file"
+ },
+ {
+   "Type": ".xys",
+   "Language": "XYplorer script file"
+ },
+ {
+   "Type": ".yab",
+   "Language": "Yabasic source code"
+ },
+ {
+   "Type": ".kon",
+   "Language": "Yahoo! Widget XML file"
+ },
+ {
+   "Type": ".yajl",
+   "Language": "YAJL script file"
+ },
+ {
+   "Type": ".yaml",
+   "Language": "YAML source file"
+ },
+ {
+   "Type": ".yml2",
+   "Language": "YML script file"
+ },
+ {
+   "Type": ".ywl",
+   "Language": "YoWindow data file"
+ },
+ {
+   "Type": ".zcode",
+   "Language": "Z-Suite code"
+ },
+ {
+   "Type": ".zsc",
+   "Language": "ZBrush script"
+ },
+ {
+   "Type": ".baz",
+   "Language": "Zebra Printer BASIC source code"
+ },
+ {
+   "Type": ".zbi",
+   "Language": "Zebra ZBI-Developer project"
+ },
+ {
+   "Type": ".zpl",
+   "Language": "ZEMAX programming language file"
+ },
+ {
+   "Type": ".tsc",
+   "Language": "ZEMAX tolerance script file"
+ },
+ {
+   "Type": ".zpk",
+   "Language": "Zend Studio deployment application package"
+ },
+ {
+   "Type": ".fil",
+   "Language": "ZENworks application source file"
+ },
+ {
+   "Type": ".zms",
+   "Language": "Zephyr ECLIPSE Server macro script file"
+ },
+ {
+   "Type": ".zs",
+   "Language": "Zephyr Eclipse Server script"
+ },
+ {
+   "Type": ".zasm",
+   "Language": "Zero Compiler assembly source file"
+ },
+ {
+   "Type": ".zcls",
+   "Language": "Zero Compiler class file"
+ },
+ {
+   "Type": ".z",
+   "Language": "Zero Compiler header file"
+ },
+ {
+   "Type": ".zero",
+   "Language": "Zero Compiler project"
+ },
+ {
+   "Type": ".zfrm",
+   "Language": "Zero form designer file"
+ },
+ {
+   "Type": ".zsrc",
+   "Language": "Zero source file"
+ },
+ {
+   "Type": ".zws",
+   "Language": "ZiLOG Developer Studio workspace"
+ },
+ {
+   "Type": ".zrx",
+   "Language": "ZOC REXX script"
+ },
+ {
+   "Type": ".dtml",
+   "Language": "Zope Document Template Markup Language file"
+ },
+ {
+   "Type": ".tmo",
+   "Language": "Zortech C++ global optimizer default output file"
+ },
+ {
+   "Type": ".zts",
+   "Language": "ZTerm script"
+ },
+ {
+   "Type": ".a66",
+   "Language": "µVision Assembler source file"
+ },
+ {
+   "Type": ".a51",
+   "Language": "µVision Assembler source file"
+ },
+ {
+   "Type": ".lnp",
+   "Language": "µVision linker input data"
+ },
+ {
+   "Type": ".uvprojx",
+   "Language": "µVision project"
+ },
+ {
+   "Type": ".uvprjx",
+   "Language": "µVision project"
+ },
+ {
+   "Type": ".uvproj",
+   "Language": "µVision4 project"
+ }
+]

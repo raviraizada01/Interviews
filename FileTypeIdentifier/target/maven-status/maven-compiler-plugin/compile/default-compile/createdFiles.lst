@@ -1,0 +1,8 @@
+org\bop\xls\XLSReader.class
+org\bop\JSON\JSONData.class
+org\bop\JSON\JsonParser.class
+org\bop\app\ApplicationClass.class
+org\bop\xls\SearchSheet.class
+org\bop\app\FileDescription.class
+org\bop\csv\CSVFileReader.class
+org\bop\csv\CSVFileReaderTest.class
